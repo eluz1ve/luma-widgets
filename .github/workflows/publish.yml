@@ -15,7 +15,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  LUMA_REV: 015030c4382a14a17e69c6e8cc58613b24b8369e
+  LUMA_REV: cd80a5b4f6aa65b117851a2adc4b2a9ed64082d5
 
 jobs:
   build:
