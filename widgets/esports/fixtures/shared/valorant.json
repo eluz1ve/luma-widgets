@@ -1,0 +1,408 @@
+{
+ "game": "valorant",
+ "updated": 1793043059,
+ "matches": [
+  {
+   "id": 1752422,
+   "running": true,
+   "begin_at": "2026-10-26T18:06:57Z",
+   "teams": [
+    {
+     "id": 134942,
+     "name": "SK Nebula",
+     "short": "SK.N",
+     "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/134942/256px_sk_gaming_2023_darkmode.png",
+     "location": "DE"
+    },
+    {
+     "id": 132068,
+     "name": "FENNEL Female",
+     "short": "FL.FE",
+     "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/132068/186px_fennel_2021_may_darkmode.png",
+     "location": "JP"
+    }
+   ],
+   "score": [
+    1,
+    0
+   ],
+   "best_of": 3,
+   "games": [
+    {
+     "position": 1,
+     "state": "finished",
+     "winner": 134942,
+     "begin_at": "2026-10-26T18:07:00Z",
+     "length": 2197,
+     "map": "Lotus",
+     "picked_by": 132068
+    },
+    {
+     "position": 2,
+     "state": "running",
+     "winner": null,
+     "begin_at": "2026-10-26T18:54:21Z",
+     "length": null,
+     "map": "Sunset",
+     "picked_by": 134942
+    },
+    {
+     "position": 3,
+     "state": "waiting",
+     "winner": null,
+     "begin_at": "",
+     "length": null,
+     "map": "Haven",
+     "decider": true
+    }
+   ],
+   "event": "VCT Game Changers Championship 2026",
+   "league_image": "https://cdn-api.pandascore.co/images/league/image/4531/800px-vct_2023_logo_lightmode-png",
+   "stage": "Playoffs",
+   "tier": "b",
+   "prizepool": "500000 United States Dollar",
+   "online": false,
+   "streams": [
+    {
+     "language": "pt",
+     "platform": "Twitch",
+     "official": false,
+     "main": false
+    },
+    {
+     "language": "es",
+     "platform": "Twitch",
+     "official": false,
+     "main": false
+    },
+    {
+     "language": "fr",
+     "platform": "Twitch",
+     "official": false,
+     "main": false
+    },
+    {
+     "language": "en",
+     "platform": "YouTube",
+     "official": true,
+     "main": false
+    },
+    {
+     "language": "en",
+     "platform": "Kick",
+     "official": true,
+     "main": false
+    },
+    {
+     "language": "en",
+     "platform": "Twitch",
+     "official": true,
+     "main": true
+    }
+   ],
+   "lineups": [
+    [
+     {
+      "name": "Joliinaa",
+      "real_name": "Tina Agéli",
+      "nationality": "SE",
+      "role": "",
+      "age": 25,
+      "image": ""
+     },
+     {
+      "name": "rezq",
+      "real_name": "Eda Naz Akçocuk",
+      "nationality": "TR",
+      "role": "",
+      "age": 19,
+      "image": ""
+     },
+     {
+      "name": "fluxxy",
+      "real_name": "Lola Ainslie",
+      "nationality": "GB",
+      "role": "",
+      "age": 23,
+      "image": ""
+     },
+     {
+      "name": "Liza",
+      "real_name": "Elizaveta Lyubovina",
+      "nationality": "RU",
+      "role": "",
+      "age": null,
+      "image": ""
+     },
+     {
+      "name": "Thuy",
+      "real_name": "Duong Ngoc-Thuy",
+      "nationality": "FR",
+      "role": "",
+      "age": 26,
+      "image": ""
+     }
+    ],
+    [
+     {
+      "name": "suzu",
+      "real_name": "Suzu Sasaki",
+      "nationality": "JP",
+      "role": "",
+      "age": 27,
+      "image": "https://cdn-api.pandascore.co/images/player/image/45705/600px_suzu_at_the_vct_game_changers_championship_2022.png"
+     },
+     {
+      "name": "Moco",
+      "real_name": "Sarina Kawashima",
+      "nationality": "JP",
+      "role": "",
+      "age": 29,
+      "image": ""
+     },
+     {
+      "name": "SereNa",
+      "real_name": "Kim Sia",
+      "nationality": "KR",
+      "role": "",
+      "age": 20,
+      "image": ""
+     },
+     {
+      "name": "UR",
+      "real_name": "",
+      "nationality": "JP",
+      "role": "",
+      "age": 21,
+      "image": ""
+     },
+     {
+      "name": "YuRinChi",
+      "real_name": "",
+      "nationality": "JP",
+      "role": "",
+      "age": 25,
+      "image": ""
+     }
+    ]
+   ],
+   "veto": [
+    {
+     "type": "ban",
+     "team": 132068,
+     "map": "Split"
+    },
+    {
+     "type": "ban",
+     "team": 134942,
+     "map": "Abyss"
+    },
+    {
+     "type": "pick",
+     "team": 132068,
+     "map": "Lotus"
+    },
+    {
+     "type": "pick",
+     "team": 134942,
+     "map": "Sunset"
+    },
+    {
+     "type": "ban",
+     "team": 132068,
+     "map": "Summit"
+    },
+    {
+     "type": "ban",
+     "team": 134942,
+     "map": "Ascent"
+    },
+    {
+     "type": "decider",
+     "team": null,
+     "map": "Haven"
+    }
+   ],
+   "maps_source": "Liquipedia"
+  },
+  {
+   "id": 1752423,
+   "running": false,
+   "begin_at": "2026-10-26T21:00:00Z",
+   "teams": [
+    {
+     "id": 130888,
+     "name": "G2 Gozen",
+     "short": "G2",
+     "image": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png",
+     "location": "DE"
+    },
+    {
+     "id": 131527,
+     "name": "Team Liquid Brazil",
+     "short": "TL",
+     "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/131527/526px_team_liquid_2024_darkmode.png",
+     "location": ""
+    }
+   ],
+   "score": [
+    0,
+    0
+   ],
+   "best_of": 3,
+   "games": [
+    {
+     "position": 1,
+     "state": "waiting",
+     "winner": null,
+     "begin_at": "",
+     "length": null
+    },
+    {
+     "position": 2,
+     "state": "waiting",
+     "winner": null,
+     "begin_at": "",
+     "length": null
+    },
+    {
+     "position": 3,
+     "state": "waiting",
+     "winner": null,
+     "begin_at": "",
+     "length": null
+    }
+   ],
+   "event": "VCT Game Changers Championship 2026",
+   "league_image": "https://cdn-api.pandascore.co/images/league/image/4531/800px-vct_2023_logo_lightmode-png",
+   "stage": "Playoffs",
+   "tier": "b",
+   "prizepool": "500000 United States Dollar",
+   "online": false,
+   "streams": [
+    {
+     "language": "pt",
+     "platform": "Twitch",
+     "official": false,
+     "main": false
+    },
+    {
+     "language": "es",
+     "platform": "Twitch",
+     "official": false,
+     "main": false
+    },
+    {
+     "language": "fr",
+     "platform": "Twitch",
+     "official": false,
+     "main": false
+    },
+    {
+     "language": "en",
+     "platform": "YouTube",
+     "official": true,
+     "main": false
+    },
+    {
+     "language": "en",
+     "platform": "Kick",
+     "official": true,
+     "main": false
+    },
+    {
+     "language": "en",
+     "platform": "Twitch",
+     "official": true,
+     "main": true
+    }
+   ],
+   "lineups": [
+    [
+     {
+      "name": "mimi",
+      "real_name": "Michaela Lintrup",
+      "nationality": "DK",
+      "role": "",
+      "age": 29,
+      "image": "https://cdn-api.pandascore.co/images/player/image/20334/wa_kv2n_tx_ydo_m2nq2_vgxq_gl.png"
+     },
+     {
+      "name": "eva",
+      "real_name": "Nur Çakır",
+      "nationality": "TR",
+      "role": "",
+      "age": 22,
+      "image": "https://cdn-api.pandascore.co/images/player/image/41411/photo_2023_04_27_05_13_35_removebg_preview.large.png"
+     },
+     {
+      "name": "Vania",
+      "real_name": "Aleyna Keskin",
+      "nationality": "TR",
+      "role": "",
+      "age": 22,
+      "image": "https://cdn-api.pandascore.co/images/player/image/41413/photo_2023_04_27_05_12_18_removebg_preview.large.png"
+     },
+     {
+      "name": "amy",
+      "real_name": "Amy Lai",
+      "nationality": "NL",
+      "role": "",
+      "age": 21,
+      "image": "https://cdn-api.pandascore.co/images/player/image/41478/600px_acend_rising_amy_october_2022.png"
+     },
+     {
+      "name": "Akita",
+      "real_name": "",
+      "nationality": "FR",
+      "role": "",
+      "age": 19,
+      "image": ""
+     }
+    ],
+    [
+     {
+      "name": "daiki",
+      "real_name": "Natália Vilela",
+      "nationality": "BR",
+      "role": "",
+      "age": 22,
+      "image": "https://cdn-api.pandascore.co/images/player/image/43940/600px_tl_daiki_2.png"
+     },
+     {
+      "name": "Joojina",
+      "real_name": "Letícia Paiva",
+      "nationality": "BR",
+      "role": "",
+      "age": 25,
+      "image": "https://cdn-api.pandascore.co/images/player/image/43942/ezgif_62260983998784.png"
+     },
+     {
+      "name": "isaa",
+      "real_name": "Isabeli Esser",
+      "nationality": "BR",
+      "role": "",
+      "age": 23,
+      "image": "https://cdn-api.pandascore.co/images/player/image/43946/600px_gl_isaa.png"
+     },
+     {
+      "name": "Jelly",
+      "real_name": "Julia Iris",
+      "nationality": "BR",
+      "role": "",
+      "age": 21,
+      "image": "https://cdn-api.pandascore.co/images/player/image/43948/ezgif_1_75a924afc4.png"
+     },
+     {
+      "name": "bizerra",
+      "real_name": "Vitoria Vieira",
+      "nationality": "BR",
+      "role": "",
+      "age": 23,
+      "image": "https://cdn-api.pandascore.co/images/player/image/45115/ezgif_63993c762a060f.png"
+     }
+    ]
+   ]
+  }
+ ]
+}

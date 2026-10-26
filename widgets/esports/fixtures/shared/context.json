@@ -1,0 +1,11 @@
+{
+ "settings": {
+  "games": [
+   "csgo",
+   "valorant"
+  ],
+  "major_only": false
+ },
+ "lang": "ru",
+ "now": 1793043100
+}

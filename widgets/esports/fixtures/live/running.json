@@ -1,0 +1,296 @@
+[
+ {
+  "id": 1753711,
+  "status": "running",
+  "begin_at": "2026-10-26T16:34:09Z",
+  "scheduled_at": "2026-10-26T16:34:09Z",
+  "number_of_games": 3,
+  "opponents": [
+   {
+    "type": "Team",
+    "opponent": {
+     "id": 3210,
+     "name": "G2",
+     "acronym": null,
+     "image_url": "https://cdn-api.pandascore.co/images/team/image/3210/5995.png",
+     "dark_mode_image_url": null,
+     "location": "DE"
+    }
+   },
+   {
+    "type": "Team",
+    "opponent": {
+     "id": 138988,
+     "name": "DENDELE CS",
+     "acronym": "DEN",
+     "image_url": "https://cdn-api.pandascore.co/dark_images/team/dark_image/138988/454px_dendele_cs_allmode.png",
+     "dark_mode_image_url": null,
+     "location": "BR"
+    }
+   }
+  ],
+  "results": [
+   {
+    "team_id": 3210,
+    "score": 1
+   },
+   {
+    "team_id": 138988,
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "id": 17537111,
+    "position": 1,
+    "status": "finished",
+    "winner": {
+     "id": 138988,
+     "type": "Team"
+    },
+    "begin_at": "2026-10-26T16:34:11Z",
+    "length": 2944,
+    "finished": true
+   },
+   {
+    "id": 17537112,
+    "position": 2,
+    "status": "finished",
+    "winner": {
+     "id": 3210,
+     "type": "Team"
+    },
+    "begin_at": "2026-10-26T17:40:10Z",
+    "length": 4134,
+    "finished": true
+   },
+   {
+    "id": 17537113,
+    "position": 3,
+    "status": "running",
+    "winner": {
+     "id": null,
+     "type": "Team"
+    },
+    "begin_at": "2026-10-26T19:06:21Z",
+    "length": null,
+    "finished": false
+   }
+  ],
+  "league": {
+   "name": "PGL Masters Bucharest 2026",
+   "image_url": "https://cdn-api.pandascore.co/images/league/image/5442/pgl_masters_bucharest_2025_allmode-png"
+  },
+  "serie": {
+   "full_name": ""
+  },
+  "tournament": {
+   "tier": "A",
+   "name": "Group Stage",
+   "prizepool": null,
+   "type": "offline"
+  },
+  "streams_list": [
+   {
+    "language": "pt",
+    "raw_url": "https://kick.com/channel0",
+    "official": false,
+    "main": false
+   },
+   {
+    "language": "ru",
+    "raw_url": "https://www.twitch.tv/channel1",
+    "official": false,
+    "main": false
+   },
+   {
+    "language": "en",
+    "raw_url": "https://www.twitch.tv/channel2",
+    "official": true,
+    "main": true
+   }
+  ]
+ },
+ {
+  "id": 1727903,
+  "status": "running",
+  "begin_at": "2026-10-26T18:04:55Z",
+  "scheduled_at": "2026-10-26T18:04:55Z",
+  "number_of_games": 3,
+  "opponents": [
+   {
+    "type": "Team",
+    "opponent": {
+     "id": 135673,
+     "name": "Nuclear TigeRES",
+     "acronym": "NTR",
+     "image_url": "https://cdn-api.pandascore.co/images/team/image/135673/285px_nuclear_tige_res_lightmode.png",
+     "dark_mode_image_url": null,
+     "location": "RU"
+    }
+   },
+   {
+    "type": "Team",
+    "opponent": {
+     "id": 133063,
+     "name": "UNiTY esports",
+     "acronym": "UNiTY",
+     "image_url": "https://cdn-api.pandascore.co/images/team/image/133063/190px_u_ni_ty_esports_allmode.png",
+     "dark_mode_image_url": null,
+     "location": "SK"
+    }
+   }
+  ],
+  "results": [
+   {
+    "team_id": 135673,
+    "score": 0
+   },
+   {
+    "team_id": 133063,
+    "score": 1
+   }
+  ],
+  "games": [
+   {
+    "id": 17279031,
+    "position": 1,
+    "status": "finished",
+    "winner": {
+     "id": 133063,
+     "type": "Team"
+    },
+    "begin_at": "2026-10-26T18:04:57Z",
+    "length": 2901,
+    "finished": true
+   },
+   {
+    "id": 17279032,
+    "position": 2,
+    "status": "running",
+    "winner": {
+     "id": null,
+     "type": "Team"
+    },
+    "begin_at": "2026-10-26T19:11:37Z",
+    "length": null,
+    "finished": false
+   },
+   {
+    "id": 17279033,
+    "position": 3,
+    "status": "not_started",
+    "winner": {
+     "id": null,
+     "type": "Team"
+    },
+    "begin_at": null,
+    "length": null,
+    "finished": false
+   }
+  ],
+  "league": {
+   "name": "NODWIN Clutch Series Season 13 2026",
+   "image_url": "https://cdn-api.pandascore.co/images/league/image/5437/nodwin_clutch_series_2_lightmode-png"
+  },
+  "serie": {
+   "full_name": ""
+  },
+  "tournament": {
+   "tier": "D",
+   "name": "Playoffs",
+   "prizepool": "30000 United States Dollar",
+   "type": "online"
+  },
+  "streams_list": [
+   {
+    "language": "ru",
+    "raw_url": "https://www.twitch.tv/channel0",
+    "official": false,
+    "main": false
+   },
+   {
+    "language": "en",
+    "raw_url": "https://kick.com/channel1",
+    "official": true,
+    "main": true
+   }
+  ]
+ },
+ {
+  "id": 1688002,
+  "status": "running",
+  "begin_at": "2026-10-26T19:15:59Z",
+  "scheduled_at": "2026-10-26T19:15:59Z",
+  "number_of_games": 1,
+  "opponents": [
+   {
+    "type": "Team",
+    "opponent": {
+     "id": 127911,
+     "name": "MASONIC",
+     "acronym": "MSC",
+     "image_url": "https://cdn-api.pandascore.co/dark_images/team/dark_image/127911/800px_masonic_2022_darkmode.png",
+     "dark_mode_image_url": null,
+     "location": "DK"
+    }
+   },
+   {
+    "type": "Team",
+    "opponent": {
+     "id": 128432,
+     "name": "struggletony",
+     "acronym": "st0ny",
+     "image_url": "https://cdn-api.pandascore.co/images/team/image/128432/6aa14b6f38c6a4cc2d0326ac.png",
+     "dark_mode_image_url": null,
+     "location": "DK"
+    }
+   }
+  ],
+  "results": [
+   {
+    "team_id": 127911,
+    "score": 0
+   },
+   {
+    "team_id": 128432,
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "id": 16880021,
+    "position": 1,
+    "status": "running",
+    "winner": {
+     "id": null,
+     "type": "Team"
+    },
+    "begin_at": "2026-10-26T19:15:59Z",
+    "length": null,
+    "finished": false
+   }
+  ],
+  "league": {
+   "name": "Dust2.dk Ligaen Season 33 2026",
+   "image_url": "https://cdn-api.pandascore.co/images/league/image/4473/800px-power_ligaen_2021_allmode-png"
+  },
+  "serie": {
+   "full_name": ""
+  },
+  "tournament": {
+   "tier": "D",
+   "name": "Regular Season",
+   "prizepool": null,
+   "type": "online"
+  },
+  "streams_list": [
+   {
+    "language": "da",
+    "raw_url": "https://www.twitch.tv/channel0",
+    "official": true,
+    "main": true
+   }
+  ]
+ }
+]

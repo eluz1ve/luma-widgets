@@ -1,0 +1,600 @@
+{
+ "game": "csgo",
+ "updated": 1793043043,
+ "matches": [
+  {
+   "id": 1753711,
+   "running": true,
+   "begin_at": "2026-10-26T16:34:09Z",
+   "teams": [
+    {
+     "id": 3210,
+     "name": "G2",
+     "short": "G2",
+     "image": "https://cdn-api.pandascore.co/images/team/image/3210/5995.png",
+     "location": "DE"
+    },
+    {
+     "id": 138988,
+     "name": "DENDELE CS",
+     "short": "DEN",
+     "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/138988/454px_dendele_cs_allmode.png",
+     "location": "BR"
+    }
+   ],
+   "score": [
+    1,
+    1
+   ],
+   "best_of": 3,
+   "games": [
+    {
+     "position": 1,
+     "state": "finished",
+     "winner": 138988,
+     "begin_at": "2026-10-26T16:34:11Z",
+     "length": 2944,
+     "map": "Nuke",
+     "score": [
+      5,
+      13
+     ]
+    },
+    {
+     "position": 2,
+     "state": "finished",
+     "winner": 3210,
+     "begin_at": "2026-10-26T17:40:10Z",
+     "length": 4134,
+     "map": "Ancient",
+     "score": [
+      16,
+      14
+     ]
+    },
+    {
+     "position": 3,
+     "state": "running",
+     "winner": null,
+     "begin_at": "2026-10-26T19:06:21Z",
+     "length": null,
+     "map": "Inferno"
+    }
+   ],
+   "event": "PGL Masters Bucharest 2026",
+   "league_image": "https://cdn-api.pandascore.co/images/league/image/5442/pgl_masters_bucharest_2025_allmode-png",
+   "stage": "Group Stage",
+   "tier": "a",
+   "prizepool": "",
+   "online": false,
+   "streams": [
+    {
+     "language": "pt",
+     "platform": "Kick",
+     "official": false,
+     "main": false
+    },
+    {
+     "language": "ru",
+     "platform": "Twitch",
+     "official": false,
+     "main": false
+    },
+    {
+     "language": "en",
+     "platform": "Twitch",
+     "official": true,
+     "main": true
+    }
+   ],
+   "lineups": [
+    [
+     {
+      "name": "huNter-",
+      "real_name": "Nemanja Kovač",
+      "nationality": "BA",
+      "role": "",
+      "age": 30,
+      "image": "https://cdn-api.pandascore.co/images/player/image/17958/900px_hu_nter__epl_s10_finals_odense_2019.png"
+     },
+     {
+      "name": "NertZ",
+      "real_name": "Guy Iluz",
+      "nationality": "IL",
+      "role": "",
+      "age": 27,
+      "image": "https://cdn-api.pandascore.co/images/player/image/24880/pg_fb_tlvw_400x400.png"
+     },
+     {
+      "name": "r1nkle",
+      "real_name": "Artem Moroz",
+      "nationality": "UA",
+      "role": "",
+      "age": 21,
+      "image": ""
+     },
+     {
+      "name": "HeavyGod",
+      "real_name": "Nikita Martynenko",
+      "nationality": "IL",
+      "role": "",
+      "age": 24,
+      "image": ""
+     },
+     {
+      "name": "MATYS",
+      "real_name": "Matúš Šimko",
+      "nationality": "SK",
+      "role": "",
+      "age": 24,
+      "image": ""
+     }
+    ],
+    [
+     {
+      "name": "Gafolo",
+      "real_name": "Victor Andrade",
+      "nationality": "BR",
+      "role": "",
+      "age": 24,
+      "image": ""
+     },
+     {
+      "name": "koala",
+      "real_name": "João Pedro",
+      "nationality": "BR",
+      "role": "",
+      "age": 21,
+      "image": ""
+     },
+     {
+      "name": "maxxkor",
+      "real_name": "Máximo Cortina",
+      "nationality": "AR",
+      "role": "",
+      "age": 23,
+      "image": ""
+     },
+     {
+      "name": "rdnzao",
+      "real_name": "Daniel Monteiro",
+      "nationality": "BR",
+      "role": "",
+      "age": 23,
+      "image": ""
+     },
+     {
+      "name": "doc",
+      "real_name": "Danilo Barros",
+      "nationality": "BR",
+      "role": "",
+      "age": 24,
+      "image": ""
+     }
+    ]
+   ],
+   "maps_source": "Liquipedia"
+  },
+  {
+   "id": 1727903,
+   "running": true,
+   "begin_at": "2026-10-26T18:04:55Z",
+   "teams": [
+    {
+     "id": 135673,
+     "name": "Nuclear TigeRES",
+     "short": "NTR",
+     "image": "https://cdn-api.pandascore.co/images/team/image/135673/285px_nuclear_tige_res_lightmode.png",
+     "location": "RU"
+    },
+    {
+     "id": 133063,
+     "name": "UNiTY esports",
+     "short": "UNiTY",
+     "image": "https://cdn-api.pandascore.co/images/team/image/133063/190px_u_ni_ty_esports_allmode.png",
+     "location": "SK"
+    }
+   ],
+   "score": [
+    0,
+    1
+   ],
+   "best_of": 3,
+   "games": [
+    {
+     "position": 1,
+     "state": "finished",
+     "winner": 133063,
+     "begin_at": "2026-10-26T18:04:57Z",
+     "length": 2901,
+     "map": "Ancient",
+     "score": [
+      11,
+      13
+     ]
+    },
+    {
+     "position": 2,
+     "state": "running",
+     "winner": null,
+     "begin_at": "2026-10-26T19:11:37Z",
+     "length": null,
+     "map": "Anubis"
+    },
+    {
+     "position": 3,
+     "state": "waiting",
+     "winner": null,
+     "begin_at": "",
+     "length": null,
+     "map": "Inferno"
+    }
+   ],
+   "event": "NODWIN Clutch Series Season 13 2026",
+   "league_image": "https://cdn-api.pandascore.co/images/league/image/5437/nodwin_clutch_series_2_lightmode-png",
+   "stage": "Playoffs",
+   "tier": "d",
+   "prizepool": "30000 United States Dollar",
+   "online": true,
+   "streams": [
+    {
+     "language": "ru",
+     "platform": "Twitch",
+     "official": false,
+     "main": false
+    },
+    {
+     "language": "en",
+     "platform": "Kick",
+     "official": true,
+     "main": true
+    }
+   ],
+   "lineups": [
+    [
+     {
+      "name": "senka",
+      "real_name": "Arseniy Kozlovsky",
+      "nationality": "BY",
+      "role": "",
+      "age": 20,
+      "image": ""
+     },
+     {
+      "name": "m1QUSE",
+      "real_name": "Denis Karpovich",
+      "nationality": "BY",
+      "role": "",
+      "age": 19,
+      "image": "",
+      "substitute": true
+     },
+     {
+      "name": "Djon8",
+      "real_name": "Evgeny Mudrenov",
+      "nationality": "RU",
+      "role": "",
+      "age": 21,
+      "image": ""
+     },
+     {
+      "name": "flouzer",
+      "real_name": "Ilya Selifonov",
+      "nationality": "RU",
+      "role": "",
+      "age": 18,
+      "image": ""
+     },
+     {
+      "name": "ayuki",
+      "real_name": "Egor Ershov",
+      "nationality": "RU",
+      "role": "",
+      "age": 18,
+      "image": ""
+     },
+     {
+      "name": "tronic",
+      "real_name": "Kamil Shakhov",
+      "nationality": "RU",
+      "role": "",
+      "age": null,
+      "image": ""
+     }
+    ],
+    [
+     {
+      "name": "Dytor",
+      "real_name": "Martin Handl",
+      "nationality": "CZ",
+      "role": "",
+      "age": 23,
+      "image": "https://cdn-api.pandascore.co/images/player/image/28703/image_asset.png"
+     },
+     {
+      "name": "KWERTZZ",
+      "real_name": "Simon Horák",
+      "nationality": "CZ",
+      "role": "",
+      "age": 24,
+      "image": "https://cdn-api.pandascore.co/images/player/image/32000/n_n_j0t_ve_400x400.png"
+     },
+     {
+      "name": "Sn0w",
+      "real_name": "Timmy Brun",
+      "nationality": "SE",
+      "role": "",
+      "age": 22,
+      "image": ""
+     },
+     {
+      "name": "M1key",
+      "real_name": "Jakub Krausko",
+      "nationality": "SK",
+      "role": "",
+      "age": 22,
+      "image": "https://cdn-api.pandascore.co/images/player/image/34081/600px_enterprise_m1key_2023.png"
+     },
+     {
+      "name": "2high",
+      "real_name": "Ahmet Baftijari",
+      "nationality": "MK",
+      "role": "",
+      "age": 26,
+      "image": ""
+     }
+    ]
+   ],
+   "maps_source": "Liquipedia"
+  },
+  {
+   "id": 1688002,
+   "running": true,
+   "begin_at": "2026-10-26T19:15:59Z",
+   "teams": [
+    {
+     "id": 127911,
+     "name": "MASONIC",
+     "short": "MSC",
+     "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/127911/800px_masonic_2022_darkmode.png",
+     "location": "DK"
+    },
+    {
+     "id": 128432,
+     "name": "struggletony",
+     "short": "st0ny",
+     "image": "https://cdn-api.pandascore.co/images/team/image/128432/6aa14b6f38c6a4cc2d0326ac.png",
+     "location": "DK"
+    }
+   ],
+   "score": [
+    0,
+    0
+   ],
+   "best_of": 1,
+   "games": [
+    {
+     "position": 1,
+     "state": "running",
+     "winner": null,
+     "begin_at": "2026-10-26T19:15:59Z",
+     "length": null
+    }
+   ],
+   "event": "Dust2.dk Ligaen Season 33 2026",
+   "league_image": "https://cdn-api.pandascore.co/images/league/image/4473/800px-power_ligaen_2021_allmode-png",
+   "stage": "Regular Season",
+   "tier": "d",
+   "prizepool": "",
+   "online": true,
+   "streams": [
+    {
+     "language": "da",
+     "platform": "Twitch",
+     "official": true,
+     "main": true
+    }
+   ],
+   "lineups": [
+    [
+     {
+      "name": "b0RUP",
+      "real_name": "Johannes Borup",
+      "nationality": "DK",
+      "role": "",
+      "age": 27,
+      "image": "https://cdn-api.pandascore.co/images/player/image/19957/900px_b0_rup_at_dreamhack_open_leipzig_2020.png"
+     },
+     {
+      "name": "fr0slev",
+      "real_name": "Magnus Frøslev",
+      "nationality": "DK",
+      "role": "",
+      "age": 29,
+      "image": "https://cdn-api.pandascore.co/images/player/image/25133/fr_253_fslev.png",
+      "substitute": true
+     },
+     {
+      "name": "grumpyMonk",
+      "real_name": "Mathias Stentoft",
+      "nationality": "DK",
+      "role": "",
+      "age": 27,
+      "image": "",
+      "substitute": true
+     },
+     {
+      "name": "Botman",
+      "real_name": "Niklas Vestergaard",
+      "nationality": "DK",
+      "role": "",
+      "age": 23,
+      "image": ""
+     },
+     {
+      "name": "Bukhavez",
+      "real_name": "Jonas Vestergaard",
+      "nationality": "DK",
+      "role": "",
+      "age": 23,
+      "image": ""
+     },
+     {
+      "name": "KralleJ",
+      "real_name": "Kristian Jensen",
+      "nationality": "DK",
+      "role": "",
+      "age": 19,
+      "image": ""
+     },
+     {
+      "name": "slexa",
+      "real_name": "Alexander Marrup",
+      "nationality": "DK",
+      "role": "",
+      "age": 16,
+      "image": ""
+     }
+    ],
+    [
+     {
+      "name": "SP4C3CR34T0R",
+      "real_name": "",
+      "nationality": "DK",
+      "role": "",
+      "age": null,
+      "image": ""
+     }
+    ]
+   ]
+  },
+  {
+   "id": 1772304,
+   "running": false,
+   "begin_at": "2026-10-26T19:30:00Z",
+   "teams": [
+    {
+     "id": 139450,
+     "name": "prodigy",
+     "short": "prodigy",
+     "image": "",
+     "location": "RU"
+    },
+    {
+     "id": 137357,
+     "name": "X-CITY",
+     "short": "X-CITY",
+     "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/137357/237px_x_city_darkmode.png",
+     "location": "RU"
+    }
+   ],
+   "score": [
+    0,
+    0
+   ],
+   "best_of": 3,
+   "games": [
+    {
+     "position": 1,
+     "state": "waiting",
+     "winner": null,
+     "begin_at": "",
+     "length": null
+    },
+    {
+     "position": 2,
+     "state": "waiting",
+     "winner": null,
+     "begin_at": "",
+     "length": null
+    },
+    {
+     "position": 3,
+     "state": "waiting",
+     "winner": null,
+     "begin_at": "",
+     "length": null
+    }
+   ],
+   "event": "CCT Europe Contenders #10 2026",
+   "league_image": "https://cdn-api.pandascore.co/images/league/image/5232/799px-cct_2024_europe_allmode-png",
+   "stage": "Playoffs",
+   "tier": "d",
+   "prizepool": "2,500 United States Dollar",
+   "online": true,
+   "streams": [
+    {
+     "language": "en",
+     "platform": "Kick",
+     "official": true,
+     "main": true
+    }
+   ],
+   "lineups": [
+    [],
+    []
+   ]
+  },
+  {
+   "id": 1763031,
+   "running": false,
+   "begin_at": "2026-10-27T06:00:00Z",
+   "teams": [
+    null,
+    null
+   ],
+   "score": [
+    0,
+    0
+   ],
+   "best_of": 3,
+   "games": [
+    {
+     "position": 1,
+     "state": "waiting",
+     "winner": null,
+     "begin_at": "",
+     "length": null
+    },
+    {
+     "position": 2,
+     "state": "waiting",
+     "winner": null,
+     "begin_at": "",
+     "length": null
+    },
+    {
+     "position": 3,
+     "state": "waiting",
+     "winner": null,
+     "begin_at": "",
+     "length": null
+    }
+   ],
+   "event": "DFRAG Invitational 2026",
+   "league_image": "https://cdn-api.pandascore.co/images/league/image/5364/dfrag_invitational_2025_allmode-png",
+   "stage": "Group B",
+   "tier": "c",
+   "prizepool": "",
+   "online": false,
+   "streams": [
+    {
+     "language": "en",
+     "platform": "Twitch",
+     "official": true,
+     "main": false
+    },
+    {
+     "language": "en",
+     "platform": "Twitch",
+     "official": true,
+     "main": true
+    }
+   ],
+   "lineups": [
+    [],
+    []
+   ]
+  }
+ ]
+}

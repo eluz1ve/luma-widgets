@@ -1,0 +1,1212 @@
+{
+  "empty": "Сейчас нет текущих и ближайших матчей",
+  "items": [
+    {
+      "card": {
+        "caption": "Counter-Strike 2 · PGL Masters Bucharest 2026",
+        "live": true,
+        "logo": "https://cdn-api.pandascore.co/images/league/image/5442/pgl_masters_bucharest_2025_allmode-png",
+        "progress": {
+          "label": "Карта 3 · Inferno",
+          "steps": [
+            "done",
+            "done",
+            "live"
+          ],
+          "value": null
+        },
+        "sides": [
+          {
+            "image": "https://cdn-api.pandascore.co/images/team/image/3210/5995.png",
+            "lead": true,
+            "name": "G2",
+            "score": "1",
+            "short": "G2"
+          },
+          {
+            "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/138988/454px_dendele_cs_allmode.png",
+            "lead": true,
+            "name": "DENDELE CS",
+            "score": "1",
+            "short": "DEN"
+          }
+        ],
+        "status": null
+      },
+      "dialog": {
+        "footer": {
+          "credit": "Карты: Liquipedia (CC-BY-SA)",
+          "label": "Трансляции",
+          "note": "Общие тестовые данные, обновляются раз в 15 минут. Для личного использования зарегистрируйтесь на pandascore.co и добавьте свой бесплатный ключ в настройках виджета — с ним счёт будет в реальном времени.",
+          "text": "EN Twitch (официальная) · PT Kick · RU Twitch"
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO3"
+            },
+            {
+              "text": "Tier A"
+            },
+            {
+              "text": "LAN"
+            }
+          ],
+          "logo": "https://cdn-api.pandascore.co/images/league/image/5442/pgl_masters_bucharest_2025_allmode-png",
+          "subtitle": "Counter-Strike 2 · Group Stage",
+          "title": "PGL Masters Bucharest 2026"
+        },
+        "hero": {
+          "lines": [
+            "Карта 3 · Inferno",
+            {
+              "as_of": 1793043043
+            }
+          ],
+          "live": true,
+          "sides": [
+            {
+              "caption": "DE",
+              "image": "https://cdn-api.pandascore.co/images/team/image/3210/5995.png",
+              "lead": true,
+              "name": "G2",
+              "score": "1",
+              "short": "G2"
+            },
+            {
+              "caption": "BR",
+              "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/138988/454px_dendele_cs_allmode.png",
+              "lead": true,
+              "name": "DENDELE CS",
+              "score": "1",
+              "short": "DEN"
+            }
+          ]
+        },
+        "lists": [
+          {
+            "empty": "Состав не объявлен",
+            "extra": [],
+            "image": "https://cdn-api.pandascore.co/images/team/image/3210/5995.png",
+            "name": "G2",
+            "rows": [
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/17958/900px_hu_nter__epl_s10_finals_odense_2019.png",
+                "meta": "BA",
+                "subtitle": "Nemanja Kovač",
+                "title": "huNter-"
+              },
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/24880/pg_fb_tlvw_400x400.png",
+                "meta": "IL",
+                "subtitle": "Guy Iluz",
+                "title": "NertZ"
+              },
+              {
+                "image": null,
+                "meta": "UA",
+                "subtitle": "Artem Moroz",
+                "title": "r1nkle"
+              },
+              {
+                "image": null,
+                "meta": "IL",
+                "subtitle": "Nikita Martynenko",
+                "title": "HeavyGod"
+              },
+              {
+                "image": null,
+                "meta": "SK",
+                "subtitle": "Matúš Šimko",
+                "title": "MATYS"
+              }
+            ],
+            "title": "Состав G2"
+          },
+          {
+            "empty": "Состав не объявлен",
+            "extra": [],
+            "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/138988/454px_dendele_cs_allmode.png",
+            "name": "DEN",
+            "rows": [
+              {
+                "image": null,
+                "meta": "BR",
+                "subtitle": "Victor Andrade",
+                "title": "Gafolo"
+              },
+              {
+                "image": null,
+                "meta": "BR",
+                "subtitle": "João Pedro",
+                "title": "koala"
+              },
+              {
+                "image": null,
+                "meta": "AR",
+                "subtitle": "Máximo Cortina",
+                "title": "maxxkor"
+              },
+              {
+                "image": null,
+                "meta": "BR",
+                "subtitle": "Daniel Monteiro",
+                "title": "rdnzao"
+              },
+              {
+                "image": null,
+                "meta": "BR",
+                "subtitle": "Danilo Barros",
+                "title": "doc"
+              }
+            ],
+            "title": "Состав DEN"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "note": null,
+              "number": "01",
+              "placeholder": "Карта 1",
+              "result": {
+                "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/138988/454px_dendele_cs_allmode.png",
+                "name": "DEN",
+                "text": "DEN · 49 мин"
+              },
+              "state": "done",
+              "title": "Nuke",
+              "value": "5:13"
+            },
+            {
+              "note": null,
+              "number": "02",
+              "placeholder": "Карта 2",
+              "result": {
+                "image": "https://cdn-api.pandascore.co/images/team/image/3210/5995.png",
+                "name": "G2",
+                "text": "G2 · 68 мин"
+              },
+              "state": "done",
+              "title": "Ancient",
+              "value": "16:14"
+            },
+            {
+              "note": null,
+              "number": "03",
+              "placeholder": "Карта 3",
+              "result": {
+                "text": {
+                  "elapsed": "2026-10-26T19:06:21Z"
+                }
+              },
+              "state": "live",
+              "title": "Inferno",
+              "value": null
+            }
+          ],
+          "slots": 3,
+          "title": "Карты"
+        }
+      },
+      "id": "1753711"
+    },
+    {
+      "card": {
+        "caption": "Counter-Strike 2 · NODWIN Clutch Series Season 13 2026",
+        "live": true,
+        "logo": "https://cdn-api.pandascore.co/images/league/image/5437/nodwin_clutch_series_2_lightmode-png",
+        "progress": {
+          "label": "Карта 2 · Anubis",
+          "steps": [
+            "done",
+            "live",
+            "next"
+          ],
+          "value": null
+        },
+        "sides": [
+          {
+            "image": "https://cdn-api.pandascore.co/images/team/image/135673/285px_nuclear_tige_res_lightmode.png",
+            "lead": false,
+            "name": "Nuclear TigeRES",
+            "score": "0",
+            "short": "NTR"
+          },
+          {
+            "image": "https://cdn-api.pandascore.co/images/team/image/133063/190px_u_ni_ty_esports_allmode.png",
+            "lead": true,
+            "name": "UNiTY esports",
+            "score": "1",
+            "short": "UNiTY"
+          }
+        ],
+        "status": null
+      },
+      "dialog": {
+        "footer": {
+          "credit": "Карты и составы: Liquipedia (CC-BY-SA)",
+          "label": "Трансляции",
+          "note": "Общие тестовые данные, обновляются раз в 15 минут. Для личного использования зарегистрируйтесь на pandascore.co и добавьте свой бесплатный ключ в настройках виджета — с ним счёт будет в реальном времени.",
+          "text": "EN Kick (официальная) · RU Twitch"
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO3"
+            },
+            {
+              "text": "Tier D"
+            },
+            {
+              "text": "Онлайн"
+            },
+            {
+              "text": "$30 000",
+              "tone": "gold"
+            }
+          ],
+          "logo": "https://cdn-api.pandascore.co/images/league/image/5437/nodwin_clutch_series_2_lightmode-png",
+          "subtitle": "Counter-Strike 2 · Playoffs",
+          "title": "NODWIN Clutch Series Season 13 2026"
+        },
+        "hero": {
+          "lines": [
+            "Карта 2 · Anubis",
+            {
+              "as_of": 1793043043
+            }
+          ],
+          "live": true,
+          "sides": [
+            {
+              "caption": "RU",
+              "image": "https://cdn-api.pandascore.co/images/team/image/135673/285px_nuclear_tige_res_lightmode.png",
+              "lead": false,
+              "name": "Nuclear TigeRES",
+              "score": "0",
+              "short": "NTR"
+            },
+            {
+              "caption": "SK",
+              "image": "https://cdn-api.pandascore.co/images/team/image/133063/190px_u_ni_ty_esports_allmode.png",
+              "lead": true,
+              "name": "UNiTY esports",
+              "score": "1",
+              "short": "UNiTY"
+            }
+          ]
+        },
+        "lists": [
+          {
+            "empty": "Состав не объявлен",
+            "extra": [
+              {
+                "label": "Запасные",
+                "text": "m1QUSE"
+              }
+            ],
+            "image": "https://cdn-api.pandascore.co/images/team/image/135673/285px_nuclear_tige_res_lightmode.png",
+            "name": "NTR",
+            "rows": [
+              {
+                "image": null,
+                "meta": "BY",
+                "subtitle": "Arseniy Kozlovsky",
+                "title": "senka"
+              },
+              {
+                "image": null,
+                "meta": "RU",
+                "subtitle": "Evgeny Mudrenov",
+                "title": "Djon8"
+              },
+              {
+                "image": null,
+                "meta": "RU",
+                "subtitle": "Ilya Selifonov",
+                "title": "flouzer"
+              },
+              {
+                "image": null,
+                "meta": "RU",
+                "subtitle": "Egor Ershov",
+                "title": "ayuki"
+              },
+              {
+                "image": null,
+                "meta": "RU",
+                "subtitle": "Kamil Shakhov",
+                "title": "tronic"
+              }
+            ],
+            "title": "Состав NTR"
+          },
+          {
+            "empty": "Состав не объявлен",
+            "extra": [],
+            "image": "https://cdn-api.pandascore.co/images/team/image/133063/190px_u_ni_ty_esports_allmode.png",
+            "name": "UNiTY",
+            "rows": [
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/28703/image_asset.png",
+                "meta": "CZ",
+                "subtitle": "Martin Handl",
+                "title": "Dytor"
+              },
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/32000/n_n_j0t_ve_400x400.png",
+                "meta": "CZ",
+                "subtitle": "Simon Horák",
+                "title": "KWERTZZ"
+              },
+              {
+                "image": null,
+                "meta": "SE",
+                "subtitle": "Timmy Brun",
+                "title": "Sn0w"
+              },
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/34081/600px_enterprise_m1key_2023.png",
+                "meta": "SK",
+                "subtitle": "Jakub Krausko",
+                "title": "M1key"
+              },
+              {
+                "image": null,
+                "meta": "MK",
+                "subtitle": "Ahmet Baftijari",
+                "title": "2high"
+              }
+            ],
+            "title": "Состав UNiTY"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "note": null,
+              "number": "01",
+              "placeholder": "Карта 1",
+              "result": {
+                "image": "https://cdn-api.pandascore.co/images/team/image/133063/190px_u_ni_ty_esports_allmode.png",
+                "name": "UNiTY",
+                "text": "UNiTY · 48 мин"
+              },
+              "state": "done",
+              "title": "Ancient",
+              "value": "11:13"
+            },
+            {
+              "note": null,
+              "number": "02",
+              "placeholder": "Карта 2",
+              "result": {
+                "text": {
+                  "elapsed": "2026-10-26T19:11:37Z"
+                }
+              },
+              "state": "live",
+              "title": "Anubis",
+              "value": null
+            },
+            {
+              "note": null,
+              "number": "03",
+              "placeholder": "Карта 3",
+              "result": null,
+              "state": "next",
+              "title": "Inferno",
+              "value": null
+            }
+          ],
+          "slots": 3,
+          "title": "Карты"
+        }
+      },
+      "id": "1727903"
+    },
+    {
+      "card": {
+        "caption": "Valorant · VCT Game Changers Championship 2026",
+        "live": true,
+        "logo": "https://cdn-api.pandascore.co/images/league/image/4531/800px-vct_2023_logo_lightmode-png",
+        "progress": {
+          "label": "Карта 2 · Sunset",
+          "steps": [
+            "done",
+            "live",
+            "next"
+          ],
+          "value": null
+        },
+        "sides": [
+          {
+            "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/134942/256px_sk_gaming_2023_darkmode.png",
+            "lead": true,
+            "name": "SK Nebula",
+            "score": "1",
+            "short": "SK.N"
+          },
+          {
+            "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/132068/186px_fennel_2021_may_darkmode.png",
+            "lead": false,
+            "name": "FENNEL Female",
+            "score": "0",
+            "short": "FL.FE"
+          }
+        ],
+        "status": null
+      },
+      "dialog": {
+        "footer": {
+          "credit": "Карты: Liquipedia (CC-BY-SA)",
+          "label": "Трансляции",
+          "note": "Общие тестовые данные, обновляются раз в 15 минут. Для личного использования зарегистрируйтесь на pandascore.co и добавьте свой бесплатный ключ в настройках виджета — с ним счёт будет в реальном времени.",
+          "text": "EN Twitch (официальная) · EN YouTube (официальная) · EN Kick (официальная) · PT Twitch"
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO3"
+            },
+            {
+              "text": "Tier B"
+            },
+            {
+              "text": "LAN"
+            },
+            {
+              "text": "$500 000",
+              "tone": "gold"
+            }
+          ],
+          "logo": "https://cdn-api.pandascore.co/images/league/image/4531/800px-vct_2023_logo_lightmode-png",
+          "subtitle": "Valorant · Playoffs",
+          "title": "VCT Game Changers Championship 2026"
+        },
+        "hero": {
+          "lines": [
+            "Карта 2 · Sunset",
+            {
+              "as_of": 1793043043
+            }
+          ],
+          "live": true,
+          "sides": [
+            {
+              "caption": "DE",
+              "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/134942/256px_sk_gaming_2023_darkmode.png",
+              "lead": true,
+              "name": "SK Nebula",
+              "score": "1",
+              "short": "SK.N"
+            },
+            {
+              "caption": "JP",
+              "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/132068/186px_fennel_2021_may_darkmode.png",
+              "lead": false,
+              "name": "FENNEL Female",
+              "score": "0",
+              "short": "FL.FE"
+            }
+          ]
+        },
+        "lists": [
+          {
+            "empty": "Состав не объявлен",
+            "extra": [],
+            "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/134942/256px_sk_gaming_2023_darkmode.png",
+            "name": "SK.N",
+            "rows": [
+              {
+                "image": null,
+                "meta": "SE",
+                "subtitle": "Tina Agéli",
+                "title": "Joliinaa"
+              },
+              {
+                "image": null,
+                "meta": "TR",
+                "subtitle": "Eda Naz Akçocuk",
+                "title": "rezq"
+              },
+              {
+                "image": null,
+                "meta": "GB",
+                "subtitle": "Lola Ainslie",
+                "title": "fluxxy"
+              },
+              {
+                "image": null,
+                "meta": "RU",
+                "subtitle": "Elizaveta Lyubovina",
+                "title": "Liza"
+              },
+              {
+                "image": null,
+                "meta": "FR",
+                "subtitle": "Duong Ngoc-Thuy",
+                "title": "Thuy"
+              }
+            ],
+            "title": "Состав SK.N"
+          },
+          {
+            "empty": "Состав не объявлен",
+            "extra": [],
+            "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/132068/186px_fennel_2021_may_darkmode.png",
+            "name": "FL.FE",
+            "rows": [
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/45705/600px_suzu_at_the_vct_game_changers_championship_2022.png",
+                "meta": "JP",
+                "subtitle": "Suzu Sasaki",
+                "title": "suzu"
+              },
+              {
+                "image": null,
+                "meta": "JP",
+                "subtitle": "Sarina Kawashima",
+                "title": "Moco"
+              },
+              {
+                "image": null,
+                "meta": "KR",
+                "subtitle": "Kim Sia",
+                "title": "SereNa"
+              },
+              {
+                "image": null,
+                "meta": "JP",
+                "subtitle": null,
+                "title": "UR"
+              },
+              {
+                "image": null,
+                "meta": "JP",
+                "subtitle": null,
+                "title": "YuRinChi"
+              }
+            ],
+            "title": "Состав FL.FE"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "note": "Пик FL.FE",
+              "number": "01",
+              "placeholder": "Карта 1",
+              "result": {
+                "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/134942/256px_sk_gaming_2023_darkmode.png",
+                "name": "SK.N",
+                "text": "SK.N · 36 мин"
+              },
+              "state": "done",
+              "title": "Lotus",
+              "value": null
+            },
+            {
+              "note": "Пик SK.N",
+              "number": "02",
+              "placeholder": "Карта 2",
+              "result": {
+                "text": {
+                  "elapsed": "2026-10-26T18:54:21Z"
+                }
+              },
+              "state": "live",
+              "title": "Sunset",
+              "value": null
+            },
+            {
+              "note": "Десайдер",
+              "number": "03",
+              "placeholder": "Карта 3",
+              "result": null,
+              "state": "next",
+              "title": "Haven",
+              "value": null
+            }
+          ],
+          "slots": 3,
+          "title": "Карты"
+        }
+      },
+      "id": "1752422"
+    },
+    {
+      "card": {
+        "caption": "Counter-Strike 2 · Dust2.dk Ligaen Season 33 2026",
+        "live": true,
+        "logo": "https://cdn-api.pandascore.co/images/league/image/4473/800px-power_ligaen_2021_allmode-png",
+        "progress": {
+          "label": "Карта 1",
+          "steps": [
+            "live"
+          ],
+          "value": null
+        },
+        "sides": [
+          {
+            "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/127911/800px_masonic_2022_darkmode.png",
+            "lead": true,
+            "name": "MASONIC",
+            "score": "0",
+            "short": "MSC"
+          },
+          {
+            "image": "https://cdn-api.pandascore.co/images/team/image/128432/6aa14b6f38c6a4cc2d0326ac.png",
+            "lead": true,
+            "name": "struggletony",
+            "score": "0",
+            "short": "st0ny"
+          }
+        ],
+        "status": null
+      },
+      "dialog": {
+        "footer": {
+          "credit": "Карты и составы: Liquipedia (CC-BY-SA)",
+          "label": "Трансляции",
+          "note": "Общие тестовые данные, обновляются раз в 15 минут. Для личного использования зарегистрируйтесь на pandascore.co и добавьте свой бесплатный ключ в настройках виджета — с ним счёт будет в реальном времени.",
+          "text": "DA Twitch (официальная)"
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO1"
+            },
+            {
+              "text": "Tier D"
+            },
+            {
+              "text": "Онлайн"
+            }
+          ],
+          "logo": "https://cdn-api.pandascore.co/images/league/image/4473/800px-power_ligaen_2021_allmode-png",
+          "subtitle": "Counter-Strike 2 · Regular Season",
+          "title": "Dust2.dk Ligaen Season 33 2026"
+        },
+        "hero": {
+          "lines": [
+            "Карта 1",
+            {
+              "as_of": 1793043043
+            }
+          ],
+          "live": true,
+          "sides": [
+            {
+              "caption": "DK",
+              "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/127911/800px_masonic_2022_darkmode.png",
+              "lead": true,
+              "name": "MASONIC",
+              "score": "0",
+              "short": "MSC"
+            },
+            {
+              "caption": "DK",
+              "image": "https://cdn-api.pandascore.co/images/team/image/128432/6aa14b6f38c6a4cc2d0326ac.png",
+              "lead": true,
+              "name": "struggletony",
+              "score": "0",
+              "short": "st0ny"
+            }
+          ]
+        },
+        "lists": [
+          {
+            "empty": "Состав не объявлен",
+            "extra": [
+              {
+                "label": "Запасные",
+                "text": "fr0slev · grumpyMonk"
+              }
+            ],
+            "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/127911/800px_masonic_2022_darkmode.png",
+            "name": "MSC",
+            "rows": [
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/19957/900px_b0_rup_at_dreamhack_open_leipzig_2020.png",
+                "meta": "DK",
+                "subtitle": "Johannes Borup",
+                "title": "b0RUP"
+              },
+              {
+                "image": null,
+                "meta": "DK",
+                "subtitle": "Niklas Vestergaard",
+                "title": "Botman"
+              },
+              {
+                "image": null,
+                "meta": "DK",
+                "subtitle": "Jonas Vestergaard",
+                "title": "Bukhavez"
+              },
+              {
+                "image": null,
+                "meta": "DK",
+                "subtitle": "Kristian Jensen",
+                "title": "KralleJ"
+              },
+              {
+                "image": null,
+                "meta": "DK",
+                "subtitle": "Alexander Marrup",
+                "title": "slexa"
+              }
+            ],
+            "title": "Состав MSC"
+          },
+          {
+            "empty": "Состав не объявлен",
+            "extra": [],
+            "image": "https://cdn-api.pandascore.co/images/team/image/128432/6aa14b6f38c6a4cc2d0326ac.png",
+            "name": "st0ny",
+            "rows": [
+              {
+                "image": null,
+                "meta": "DK",
+                "subtitle": null,
+                "title": "SP4C3CR34T0R"
+              }
+            ],
+            "title": "Состав st0ny"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "note": null,
+              "number": "01",
+              "placeholder": "Карта 1",
+              "result": {
+                "text": {
+                  "elapsed": "2026-10-26T19:15:59Z"
+                }
+              },
+              "state": "live",
+              "title": null,
+              "value": null
+            }
+          ],
+          "slots": 1,
+          "title": "Карты"
+        }
+      },
+      "id": "1688002"
+    },
+    {
+      "card": {
+        "caption": "Counter-Strike 2 · CCT Europe Contenders #10 2026",
+        "footer": "BO3 · Playoffs",
+        "live": false,
+        "logo": "https://cdn-api.pandascore.co/images/league/image/5232/799px-cct_2024_europe_allmode-png",
+        "sides": [
+          {
+            "image": "",
+            "name": "prodigy",
+            "short": "prodigy"
+          },
+          {
+            "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/137357/237px_x_city_darkmode.png",
+            "name": "X-CITY",
+            "short": "X-CITY"
+          }
+        ],
+        "status": {
+          "start": "2026-10-26T19:30:00Z"
+        }
+      },
+      "dialog": {
+        "footer": {
+          "credit": "Карты: Liquipedia (CC-BY-SA)",
+          "label": "Трансляции",
+          "note": "Общие тестовые данные, обновляются раз в 15 минут. Для личного использования зарегистрируйтесь на pandascore.co и добавьте свой бесплатный ключ в настройках виджета — с ним счёт будет в реальном времени.",
+          "text": "EN Kick (официальная)"
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO3"
+            },
+            {
+              "text": "Tier D"
+            },
+            {
+              "text": "Онлайн"
+            },
+            {
+              "text": "$2 500",
+              "tone": "gold"
+            }
+          ],
+          "logo": "https://cdn-api.pandascore.co/images/league/image/5232/799px-cct_2024_europe_allmode-png",
+          "subtitle": "Counter-Strike 2 · Playoffs",
+          "title": "CCT Europe Contenders #10 2026"
+        },
+        "hero": {
+          "lines": [
+            {
+              "start": "2026-10-26T19:30:00Z"
+            }
+          ],
+          "live": false,
+          "sides": [
+            {
+              "caption": "RU",
+              "image": "",
+              "name": "prodigy",
+              "short": "prodigy"
+            },
+            {
+              "caption": "RU",
+              "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/137357/237px_x_city_darkmode.png",
+              "name": "X-CITY",
+              "short": "X-CITY"
+            }
+          ]
+        },
+        "lists": [
+          {
+            "empty": "Состав не объявлен",
+            "extra": [],
+            "image": "",
+            "name": "prodigy",
+            "rows": [],
+            "title": "Состав prodigy"
+          },
+          {
+            "empty": "Состав не объявлен",
+            "extra": [],
+            "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/137357/237px_x_city_darkmode.png",
+            "name": "X-CITY",
+            "rows": [],
+            "title": "Состав X-CITY"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "note": null,
+              "number": "01",
+              "placeholder": "Карта 1",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "note": null,
+              "number": "02",
+              "placeholder": "Карта 2",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "note": null,
+              "number": "03",
+              "placeholder": "Карта 3",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            }
+          ],
+          "slots": 3,
+          "title": "Карты"
+        }
+      },
+      "id": "1772304"
+    },
+    {
+      "card": {
+        "caption": "Valorant · VCT Game Changers Championship 2026",
+        "footer": "BO3 · Playoffs",
+        "live": false,
+        "logo": "https://cdn-api.pandascore.co/images/league/image/4531/800px-vct_2023_logo_lightmode-png",
+        "sides": [
+          {
+            "image": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png",
+            "name": "G2 Gozen",
+            "short": "G2"
+          },
+          {
+            "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/131527/526px_team_liquid_2024_darkmode.png",
+            "name": "Team Liquid Brazil",
+            "short": "TL"
+          }
+        ],
+        "status": {
+          "start": "2026-10-26T21:00:00Z"
+        }
+      },
+      "dialog": {
+        "footer": {
+          "credit": "Карты: Liquipedia (CC-BY-SA)",
+          "label": "Трансляции",
+          "note": "Общие тестовые данные, обновляются раз в 15 минут. Для личного использования зарегистрируйтесь на pandascore.co и добавьте свой бесплатный ключ в настройках виджета — с ним счёт будет в реальном времени.",
+          "text": "EN Twitch (официальная) · EN YouTube (официальная) · EN Kick (официальная) · PT Twitch"
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO3"
+            },
+            {
+              "text": "Tier B"
+            },
+            {
+              "text": "LAN"
+            },
+            {
+              "text": "$500 000",
+              "tone": "gold"
+            }
+          ],
+          "logo": "https://cdn-api.pandascore.co/images/league/image/4531/800px-vct_2023_logo_lightmode-png",
+          "subtitle": "Valorant · Playoffs",
+          "title": "VCT Game Changers Championship 2026"
+        },
+        "hero": {
+          "lines": [
+            {
+              "start": "2026-10-26T21:00:00Z"
+            }
+          ],
+          "live": false,
+          "sides": [
+            {
+              "caption": "DE",
+              "image": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png",
+              "name": "G2 Gozen",
+              "short": "G2"
+            },
+            {
+              "caption": null,
+              "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/131527/526px_team_liquid_2024_darkmode.png",
+              "name": "Team Liquid Brazil",
+              "short": "TL"
+            }
+          ]
+        },
+        "lists": [
+          {
+            "empty": "Состав не объявлен",
+            "extra": [],
+            "image": "https://cdn-api.pandascore.co/images/team/image/130888/5f3cbb213e5de.png",
+            "name": "G2",
+            "rows": [
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/20334/wa_kv2n_tx_ydo_m2nq2_vgxq_gl.png",
+                "meta": "DK",
+                "subtitle": "Michaela Lintrup",
+                "title": "mimi"
+              },
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/41411/photo_2023_04_27_05_13_35_removebg_preview.large.png",
+                "meta": "TR",
+                "subtitle": "Nur Çakır",
+                "title": "eva"
+              },
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/41413/photo_2023_04_27_05_12_18_removebg_preview.large.png",
+                "meta": "TR",
+                "subtitle": "Aleyna Keskin",
+                "title": "Vania"
+              },
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/41478/600px_acend_rising_amy_october_2022.png",
+                "meta": "NL",
+                "subtitle": "Amy Lai",
+                "title": "amy"
+              },
+              {
+                "image": null,
+                "meta": "FR",
+                "subtitle": null,
+                "title": "Akita"
+              }
+            ],
+            "title": "Состав G2"
+          },
+          {
+            "empty": "Состав не объявлен",
+            "extra": [],
+            "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/131527/526px_team_liquid_2024_darkmode.png",
+            "name": "TL",
+            "rows": [
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/43940/600px_tl_daiki_2.png",
+                "meta": "BR",
+                "subtitle": "Natália Vilela",
+                "title": "daiki"
+              },
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/43942/ezgif_62260983998784.png",
+                "meta": "BR",
+                "subtitle": "Letícia Paiva",
+                "title": "Joojina"
+              },
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/43946/600px_gl_isaa.png",
+                "meta": "BR",
+                "subtitle": "Isabeli Esser",
+                "title": "isaa"
+              },
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/43948/ezgif_1_75a924afc4.png",
+                "meta": "BR",
+                "subtitle": "Julia Iris",
+                "title": "Jelly"
+              },
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/45115/ezgif_63993c762a060f.png",
+                "meta": "BR",
+                "subtitle": "Vitoria Vieira",
+                "title": "bizerra"
+              }
+            ],
+            "title": "Состав TL"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "note": null,
+              "number": "01",
+              "placeholder": "Карта 1",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "note": null,
+              "number": "02",
+              "placeholder": "Карта 2",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "note": null,
+              "number": "03",
+              "placeholder": "Карта 3",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            }
+          ],
+          "slots": 3,
+          "title": "Карты"
+        }
+      },
+      "id": "1752423"
+    },
+    {
+      "card": {
+        "caption": "Counter-Strike 2 · DFRAG Invitational 2026",
+        "footer": "BO3 · Group B",
+        "live": false,
+        "logo": "https://cdn-api.pandascore.co/images/league/image/5364/dfrag_invitational_2025_allmode-png",
+        "sides": [
+          null,
+          null
+        ],
+        "status": {
+          "start": "2026-10-27T06:00:00Z"
+        }
+      },
+      "dialog": {
+        "footer": {
+          "credit": "Карты: Liquipedia (CC-BY-SA)",
+          "label": "Трансляции",
+          "note": "Общие тестовые данные, обновляются раз в 15 минут. Для личного использования зарегистрируйтесь на pandascore.co и добавьте свой бесплатный ключ в настройках виджета — с ним счёт будет в реальном времени.",
+          "text": "EN Twitch (официальная)"
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO3"
+            },
+            {
+              "text": "Tier C"
+            },
+            {
+              "text": "LAN"
+            }
+          ],
+          "logo": "https://cdn-api.pandascore.co/images/league/image/5364/dfrag_invitational_2025_allmode-png",
+          "subtitle": "Counter-Strike 2 · Group B",
+          "title": "DFRAG Invitational 2026"
+        },
+        "hero": {
+          "lines": [
+            {
+              "start": "2026-10-27T06:00:00Z"
+            }
+          ],
+          "live": false,
+          "sides": [
+            null,
+            null
+          ]
+        },
+        "lists": [
+          {
+            "empty": "Состав не объявлен",
+            "title": "Состав TBD"
+          },
+          {
+            "empty": "Состав не объявлен",
+            "title": "Состав TBD"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "note": null,
+              "number": "01",
+              "placeholder": "Карта 1",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "note": null,
+              "number": "02",
+              "placeholder": "Карта 2",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "note": null,
+              "number": "03",
+              "placeholder": "Карта 3",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            }
+          ],
+          "slots": 3,
+          "title": "Карты"
+        }
+      },
+      "id": "1763031"
+    }
+  ],
+  "title": "Counter-Strike 2, Valorant",
+  "updated": 1793043043
+}

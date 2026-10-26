@@ -1,0 +1,11 @@
+{
+ "source": "shared",
+ "settings": {
+  "games": [
+   "csgo"
+  ],
+  "major_only": true
+ },
+ "lang": "en",
+ "now": 1793043100
+}

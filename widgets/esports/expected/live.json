@@ -1,0 +1,807 @@
+{
+  "empty": "No live or upcoming matches",
+  "items": [
+    {
+      "card": {
+        "caption": "PGL Masters Bucharest 2026",
+        "live": true,
+        "logo": "https://cdn-api.pandascore.co/images/league/image/5442/pgl_masters_bucharest_2025_allmode-png",
+        "progress": {
+          "label": "Map 3 · Inferno",
+          "steps": [
+            "done",
+            "done",
+            "live"
+          ],
+          "value": null
+        },
+        "sides": [
+          {
+            "image": "https://cdn-api.pandascore.co/images/team/image/3210/5995.png",
+            "lead": true,
+            "name": "G2",
+            "score": "1",
+            "short": "G2"
+          },
+          {
+            "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/138988/454px_dendele_cs_allmode.png",
+            "lead": true,
+            "name": "DENDELE CS",
+            "score": "1",
+            "short": "DEN"
+          }
+        ],
+        "status": null
+      },
+      "dialog": {
+        "footer": {
+          "credit": "Maps: Liquipedia (CC-BY-SA)",
+          "label": "Streams",
+          "note": "Map names and round scores need a paid PandaScore plan.",
+          "text": "EN Twitch (official) · PT Kick · RU Twitch"
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO3"
+            },
+            {
+              "text": "Tier A"
+            },
+            {
+              "text": "LAN"
+            }
+          ],
+          "logo": "https://cdn-api.pandascore.co/images/league/image/5442/pgl_masters_bucharest_2025_allmode-png",
+          "subtitle": "Counter-Strike 2 · Group Stage",
+          "title": "PGL Masters Bucharest 2026"
+        },
+        "hero": {
+          "lines": [
+            "Map 3 · Inferno"
+          ],
+          "live": true,
+          "sides": [
+            {
+              "caption": "DE",
+              "image": "https://cdn-api.pandascore.co/images/team/image/3210/5995.png",
+              "lead": true,
+              "name": "G2",
+              "score": "1",
+              "short": "G2"
+            },
+            {
+              "caption": "BR",
+              "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/138988/454px_dendele_cs_allmode.png",
+              "lead": true,
+              "name": "DENDELE CS",
+              "score": "1",
+              "short": "DEN"
+            }
+          ]
+        },
+        "lists": [
+          {
+            "empty": "Lineup not announced",
+            "extra": [],
+            "image": "https://cdn-api.pandascore.co/images/team/image/3210/5995.png",
+            "name": "G2",
+            "rows": [
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/17958/900px_hu_nter__epl_s10_finals_odense_2019.png",
+                "meta": "BA",
+                "subtitle": "Nemanja Kovač",
+                "title": "huNter-"
+              },
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/24880/pg_fb_tlvw_400x400.png",
+                "meta": "IL",
+                "subtitle": "Guy Iluz",
+                "title": "NertZ"
+              },
+              {
+                "image": null,
+                "meta": "UA",
+                "subtitle": "Artem Moroz",
+                "title": "r1nkle"
+              },
+              {
+                "image": null,
+                "meta": "IL",
+                "subtitle": "Nikita Martynenko",
+                "title": "HeavyGod"
+              },
+              {
+                "image": null,
+                "meta": "SK",
+                "subtitle": "Matúš Šimko",
+                "title": "MATYS"
+              }
+            ],
+            "title": "G2 lineup"
+          },
+          {
+            "empty": "Lineup not announced",
+            "extra": [],
+            "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/138988/454px_dendele_cs_allmode.png",
+            "name": "DEN",
+            "rows": [
+              {
+                "image": null,
+                "meta": "BR",
+                "subtitle": "Victor Andrade",
+                "title": "Gafolo"
+              },
+              {
+                "image": null,
+                "meta": "BR",
+                "subtitle": "João Pedro",
+                "title": "koala"
+              },
+              {
+                "image": null,
+                "meta": "AR",
+                "subtitle": "Máximo Cortina",
+                "title": "maxxkor"
+              },
+              {
+                "image": null,
+                "meta": "BR",
+                "subtitle": "Daniel Monteiro",
+                "title": "rdnzao"
+              },
+              {
+                "image": null,
+                "meta": "BR",
+                "subtitle": "Danilo Barros",
+                "title": "doc"
+              }
+            ],
+            "title": "DEN lineup"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "note": null,
+              "number": "01",
+              "placeholder": "Map 1",
+              "result": {
+                "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/138988/454px_dendele_cs_allmode.png",
+                "name": "DEN",
+                "text": "DEN · 49 min"
+              },
+              "state": "done",
+              "title": "Nuke",
+              "value": "5:13"
+            },
+            {
+              "note": null,
+              "number": "02",
+              "placeholder": "Map 2",
+              "result": {
+                "image": "https://cdn-api.pandascore.co/images/team/image/3210/5995.png",
+                "name": "G2",
+                "text": "G2 · 68 min"
+              },
+              "state": "done",
+              "title": "Ancient",
+              "value": "16:14"
+            },
+            {
+              "note": null,
+              "number": "03",
+              "placeholder": "Map 3",
+              "result": {
+                "text": {
+                  "elapsed": "2026-10-26T19:06:21Z"
+                }
+              },
+              "state": "live",
+              "title": "Inferno",
+              "value": null
+            }
+          ],
+          "slots": 3,
+          "title": "Maps"
+        }
+      },
+      "id": "1753711"
+    },
+    {
+      "card": {
+        "caption": "NODWIN Clutch Series Season 13 2026",
+        "live": true,
+        "logo": "https://cdn-api.pandascore.co/images/league/image/5437/nodwin_clutch_series_2_lightmode-png",
+        "progress": {
+          "label": "Map 2 · Anubis",
+          "steps": [
+            "done",
+            "live",
+            "next"
+          ],
+          "value": null
+        },
+        "sides": [
+          {
+            "image": "https://cdn-api.pandascore.co/images/team/image/135673/285px_nuclear_tige_res_lightmode.png",
+            "lead": false,
+            "name": "Nuclear TigeRES",
+            "score": "0",
+            "short": "NTR"
+          },
+          {
+            "image": "https://cdn-api.pandascore.co/images/team/image/133063/190px_u_ni_ty_esports_allmode.png",
+            "lead": true,
+            "name": "UNiTY esports",
+            "score": "1",
+            "short": "UNiTY"
+          }
+        ],
+        "status": null
+      },
+      "dialog": {
+        "footer": {
+          "credit": "Maps and lineups: Liquipedia (CC-BY-SA)",
+          "label": "Streams",
+          "note": "Map names and round scores need a paid PandaScore plan.",
+          "text": "EN Kick (official) · RU Twitch"
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO3"
+            },
+            {
+              "text": "Tier D"
+            },
+            {
+              "text": "Online"
+            },
+            {
+              "text": "$30 000",
+              "tone": "gold"
+            }
+          ],
+          "logo": "https://cdn-api.pandascore.co/images/league/image/5437/nodwin_clutch_series_2_lightmode-png",
+          "subtitle": "Counter-Strike 2 · Playoffs",
+          "title": "NODWIN Clutch Series Season 13 2026"
+        },
+        "hero": {
+          "lines": [
+            "Map 2 · Anubis"
+          ],
+          "live": true,
+          "sides": [
+            {
+              "caption": "RU",
+              "image": "https://cdn-api.pandascore.co/images/team/image/135673/285px_nuclear_tige_res_lightmode.png",
+              "lead": false,
+              "name": "Nuclear TigeRES",
+              "score": "0",
+              "short": "NTR"
+            },
+            {
+              "caption": "SK",
+              "image": "https://cdn-api.pandascore.co/images/team/image/133063/190px_u_ni_ty_esports_allmode.png",
+              "lead": true,
+              "name": "UNiTY esports",
+              "score": "1",
+              "short": "UNiTY"
+            }
+          ]
+        },
+        "lists": [
+          {
+            "empty": "Lineup not announced",
+            "extra": [
+              {
+                "label": "Bench",
+                "text": "m1QUSE"
+              }
+            ],
+            "image": "https://cdn-api.pandascore.co/images/team/image/135673/285px_nuclear_tige_res_lightmode.png",
+            "name": "NTR",
+            "rows": [
+              {
+                "image": null,
+                "meta": "BY",
+                "subtitle": "Arseniy Kozlovsky",
+                "title": "senka"
+              },
+              {
+                "image": null,
+                "meta": "RU",
+                "subtitle": "Evgeny Mudrenov",
+                "title": "Djon8"
+              },
+              {
+                "image": null,
+                "meta": "RU",
+                "subtitle": "Ilya Selifonov",
+                "title": "flouzer"
+              },
+              {
+                "image": null,
+                "meta": "RU",
+                "subtitle": "Egor Ershov",
+                "title": "ayuki"
+              },
+              {
+                "image": null,
+                "meta": "RU",
+                "subtitle": "Kamil Shakhov",
+                "title": "tronic"
+              }
+            ],
+            "title": "NTR lineup"
+          },
+          {
+            "empty": "Lineup not announced",
+            "extra": [],
+            "image": "https://cdn-api.pandascore.co/images/team/image/133063/190px_u_ni_ty_esports_allmode.png",
+            "name": "UNiTY",
+            "rows": [
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/28703/image_asset.png",
+                "meta": "CZ",
+                "subtitle": "Martin Handl",
+                "title": "Dytor"
+              },
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/32000/n_n_j0t_ve_400x400.png",
+                "meta": "CZ",
+                "subtitle": "Simon Horák",
+                "title": "KWERTZZ"
+              },
+              {
+                "image": null,
+                "meta": "SE",
+                "subtitle": "Timmy Brun",
+                "title": "Sn0w"
+              },
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/34081/600px_enterprise_m1key_2023.png",
+                "meta": "SK",
+                "subtitle": "Jakub Krausko",
+                "title": "M1key"
+              },
+              {
+                "image": null,
+                "meta": "MK",
+                "subtitle": "Ahmet Baftijari",
+                "title": "2high"
+              }
+            ],
+            "title": "UNiTY lineup"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "note": null,
+              "number": "01",
+              "placeholder": "Map 1",
+              "result": {
+                "image": "https://cdn-api.pandascore.co/images/team/image/133063/190px_u_ni_ty_esports_allmode.png",
+                "name": "UNiTY",
+                "text": "UNiTY · 48 min"
+              },
+              "state": "done",
+              "title": "Ancient",
+              "value": "11:13"
+            },
+            {
+              "note": null,
+              "number": "02",
+              "placeholder": "Map 2",
+              "result": {
+                "text": {
+                  "elapsed": "2026-10-26T19:11:37Z"
+                }
+              },
+              "state": "live",
+              "title": "Anubis",
+              "value": null
+            },
+            {
+              "note": null,
+              "number": "03",
+              "placeholder": "Map 3",
+              "result": null,
+              "state": "next",
+              "title": "Inferno",
+              "value": null
+            }
+          ],
+          "slots": 3,
+          "title": "Maps"
+        }
+      },
+      "id": "1727903"
+    },
+    {
+      "card": {
+        "caption": "Dust2.dk Ligaen Season 33 2026",
+        "live": true,
+        "logo": "https://cdn-api.pandascore.co/images/league/image/4473/800px-power_ligaen_2021_allmode-png",
+        "progress": {
+          "label": "Map 1",
+          "steps": [
+            "live"
+          ],
+          "value": null
+        },
+        "sides": [
+          {
+            "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/127911/800px_masonic_2022_darkmode.png",
+            "lead": true,
+            "name": "MASONIC",
+            "score": "0",
+            "short": "MSC"
+          },
+          {
+            "image": "https://cdn-api.pandascore.co/images/team/image/128432/6aa14b6f38c6a4cc2d0326ac.png",
+            "lead": true,
+            "name": "struggletony",
+            "score": "0",
+            "short": "st0ny"
+          }
+        ],
+        "status": null
+      },
+      "dialog": {
+        "footer": {
+          "credit": "Lineups: Liquipedia (CC-BY-SA)",
+          "label": "Streams",
+          "note": "Map names and round scores need a paid PandaScore plan.",
+          "text": "DA Twitch (official)"
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO1"
+            },
+            {
+              "text": "Tier D"
+            },
+            {
+              "text": "Online"
+            }
+          ],
+          "logo": "https://cdn-api.pandascore.co/images/league/image/4473/800px-power_ligaen_2021_allmode-png",
+          "subtitle": "Counter-Strike 2 · Regular Season",
+          "title": "Dust2.dk Ligaen Season 33 2026"
+        },
+        "hero": {
+          "lines": [
+            "Map 1"
+          ],
+          "live": true,
+          "sides": [
+            {
+              "caption": "DK",
+              "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/127911/800px_masonic_2022_darkmode.png",
+              "lead": true,
+              "name": "MASONIC",
+              "score": "0",
+              "short": "MSC"
+            },
+            {
+              "caption": "DK",
+              "image": "https://cdn-api.pandascore.co/images/team/image/128432/6aa14b6f38c6a4cc2d0326ac.png",
+              "lead": true,
+              "name": "struggletony",
+              "score": "0",
+              "short": "st0ny"
+            }
+          ]
+        },
+        "lists": [
+          {
+            "empty": "Lineup not announced",
+            "extra": [
+              {
+                "label": "Bench",
+                "text": "fr0slev · grumpyMonk"
+              }
+            ],
+            "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/127911/800px_masonic_2022_darkmode.png",
+            "name": "MSC",
+            "rows": [
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/19957/900px_b0_rup_at_dreamhack_open_leipzig_2020.png",
+                "meta": "DK",
+                "subtitle": "Johannes Borup",
+                "title": "b0RUP"
+              },
+              {
+                "image": null,
+                "meta": "DK",
+                "subtitle": "Niklas Vestergaard",
+                "title": "Botman"
+              },
+              {
+                "image": null,
+                "meta": "DK",
+                "subtitle": "Jonas Vestergaard",
+                "title": "Bukhavez"
+              },
+              {
+                "image": null,
+                "meta": "DK",
+                "subtitle": "Kristian Jensen",
+                "title": "KralleJ"
+              },
+              {
+                "image": null,
+                "meta": "DK",
+                "subtitle": "Alexander Marrup",
+                "title": "slexa"
+              }
+            ],
+            "title": "MSC lineup"
+          },
+          {
+            "empty": "Lineup not announced",
+            "extra": [],
+            "image": "https://cdn-api.pandascore.co/images/team/image/128432/6aa14b6f38c6a4cc2d0326ac.png",
+            "name": "st0ny",
+            "rows": [
+              {
+                "image": null,
+                "meta": "DK",
+                "subtitle": null,
+                "title": "SP4C3CR34T0R"
+              }
+            ],
+            "title": "st0ny lineup"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "note": null,
+              "number": "01",
+              "placeholder": "Map 1",
+              "result": {
+                "text": {
+                  "elapsed": "2026-10-26T19:15:59Z"
+                }
+              },
+              "state": "live",
+              "title": null,
+              "value": null
+            }
+          ],
+          "slots": 1,
+          "title": "Maps"
+        }
+      },
+      "id": "1688002"
+    },
+    {
+      "card": {
+        "caption": "CCT Europe Contenders #10 2026",
+        "footer": "BO3 · Playoffs",
+        "live": false,
+        "logo": "https://cdn-api.pandascore.co/images/league/image/5232/799px-cct_2024_europe_allmode-png",
+        "sides": [
+          {
+            "image": null,
+            "name": "prodigy",
+            "short": "prodigy"
+          },
+          {
+            "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/137357/237px_x_city_darkmode.png",
+            "name": "X-CITY",
+            "short": "X-CITY"
+          }
+        ],
+        "status": {
+          "start": "2026-10-26T19:30:00Z"
+        }
+      },
+      "dialog": {
+        "footer": {
+          "credit": null,
+          "label": "Streams",
+          "note": "Map names and round scores need a paid PandaScore plan.",
+          "text": "EN Kick (official)"
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO3"
+            },
+            {
+              "text": "Tier D"
+            },
+            {
+              "text": "Online"
+            },
+            {
+              "text": "$2 500",
+              "tone": "gold"
+            }
+          ],
+          "logo": "https://cdn-api.pandascore.co/images/league/image/5232/799px-cct_2024_europe_allmode-png",
+          "subtitle": "Counter-Strike 2 · Playoffs",
+          "title": "CCT Europe Contenders #10 2026"
+        },
+        "hero": {
+          "lines": [
+            {
+              "start": "2026-10-26T19:30:00Z"
+            }
+          ],
+          "live": false,
+          "sides": [
+            {
+              "caption": "RU",
+              "image": null,
+              "name": "prodigy",
+              "short": "prodigy"
+            },
+            {
+              "caption": "RU",
+              "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/137357/237px_x_city_darkmode.png",
+              "name": "X-CITY",
+              "short": "X-CITY"
+            }
+          ]
+        },
+        "lists": [
+          {
+            "empty": "Lineup not announced",
+            "extra": [],
+            "image": null,
+            "name": "prodigy",
+            "rows": [],
+            "title": "prodigy lineup"
+          },
+          {
+            "empty": "Lineup not announced",
+            "extra": [],
+            "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/137357/237px_x_city_darkmode.png",
+            "name": "X-CITY",
+            "rows": [],
+            "title": "X-CITY lineup"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "note": null,
+              "number": "01",
+              "placeholder": "Map 1",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "note": null,
+              "number": "02",
+              "placeholder": "Map 2",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "note": null,
+              "number": "03",
+              "placeholder": "Map 3",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            }
+          ],
+          "slots": 3,
+          "title": "Maps"
+        }
+      },
+      "id": "1772304"
+    },
+    {
+      "card": {
+        "caption": "DFRAG Invitational 2026",
+        "footer": "BO3 · Group B",
+        "live": false,
+        "logo": "https://cdn-api.pandascore.co/images/league/image/5364/dfrag_invitational_2025_allmode-png",
+        "sides": [
+          null,
+          null
+        ],
+        "status": {
+          "start": "2026-10-27T06:00:00Z"
+        }
+      },
+      "dialog": {
+        "footer": {
+          "credit": null,
+          "label": "Streams",
+          "note": "Map names and round scores need a paid PandaScore plan.",
+          "text": "EN Twitch (official)"
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO3"
+            },
+            {
+              "text": "Tier C"
+            },
+            {
+              "text": "LAN"
+            }
+          ],
+          "logo": "https://cdn-api.pandascore.co/images/league/image/5364/dfrag_invitational_2025_allmode-png",
+          "subtitle": "Counter-Strike 2 · Group B",
+          "title": "DFRAG Invitational 2026"
+        },
+        "hero": {
+          "lines": [
+            {
+              "start": "2026-10-27T06:00:00Z"
+            }
+          ],
+          "live": false,
+          "sides": [
+            null,
+            null
+          ]
+        },
+        "lists": [
+          {
+            "empty": "Lineup not announced",
+            "title": "TBD lineup"
+          },
+          {
+            "empty": "Lineup not announced",
+            "title": "TBD lineup"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "note": null,
+              "number": "01",
+              "placeholder": "Map 1",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "note": null,
+              "number": "02",
+              "placeholder": "Map 2",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "note": null,
+              "number": "03",
+              "placeholder": "Map 3",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            }
+          ],
+          "slots": 3,
+          "title": "Maps"
+        }
+      },
+      "id": "1763031"
+    }
+  ],
+  "refresh": 30,
+  "title": "Counter-Strike 2",
+  "updated": null
+}

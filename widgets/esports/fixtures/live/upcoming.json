@@ -1,0 +1,176 @@
+[
+ {
+  "id": 1763031,
+  "status": "not_started",
+  "begin_at": "2026-10-27T06:00:00Z",
+  "scheduled_at": "2026-10-27T06:00:00Z",
+  "number_of_games": 3,
+  "opponents": [],
+  "results": [],
+  "games": [
+   {
+    "id": 17630311,
+    "position": 1,
+    "status": "not_started",
+    "winner": {
+     "id": null,
+     "type": "Team"
+    },
+    "begin_at": null,
+    "length": null,
+    "finished": false
+   },
+   {
+    "id": 17630312,
+    "position": 2,
+    "status": "not_started",
+    "winner": {
+     "id": null,
+     "type": "Team"
+    },
+    "begin_at": null,
+    "length": null,
+    "finished": false
+   },
+   {
+    "id": 17630313,
+    "position": 3,
+    "status": "not_started",
+    "winner": {
+     "id": null,
+     "type": "Team"
+    },
+    "begin_at": null,
+    "length": null,
+    "finished": false
+   }
+  ],
+  "league": {
+   "name": "DFRAG Invitational 2026",
+   "image_url": "https://cdn-api.pandascore.co/images/league/image/5364/dfrag_invitational_2025_allmode-png"
+  },
+  "serie": {
+   "full_name": ""
+  },
+  "tournament": {
+   "tier": "C",
+   "name": "Group B",
+   "prizepool": null,
+   "type": "offline"
+  },
+  "streams_list": [
+   {
+    "language": "en",
+    "raw_url": "https://www.twitch.tv/channel0",
+    "official": true,
+    "main": false
+   },
+   {
+    "language": "en",
+    "raw_url": "https://www.twitch.tv/channel1",
+    "official": true,
+    "main": true
+   }
+  ]
+ },
+ {
+  "id": 1772304,
+  "status": "not_started",
+  "begin_at": "2026-10-26T19:30:00Z",
+  "scheduled_at": "2026-10-26T19:30:00Z",
+  "number_of_games": 3,
+  "opponents": [
+   {
+    "type": "Team",
+    "opponent": {
+     "id": 139450,
+     "name": "prodigy",
+     "acronym": null,
+     "image_url": "",
+     "dark_mode_image_url": null,
+     "location": "RU"
+    }
+   },
+   {
+    "type": "Team",
+    "opponent": {
+     "id": 137357,
+     "name": "X-CITY",
+     "acronym": null,
+     "image_url": "https://cdn-api.pandascore.co/dark_images/team/dark_image/137357/237px_x_city_darkmode.png",
+     "dark_mode_image_url": null,
+     "location": "RU"
+    }
+   }
+  ],
+  "results": [
+   {
+    "team_id": 139450,
+    "score": 0
+   },
+   {
+    "team_id": 137357,
+    "score": 0
+   }
+  ],
+  "games": [
+   {
+    "id": 17723041,
+    "position": 1,
+    "status": "not_started",
+    "winner": {
+     "id": null,
+     "type": "Team"
+    },
+    "begin_at": null,
+    "length": null,
+    "finished": false
+   },
+   {
+    "id": 17723042,
+    "position": 2,
+    "status": "not_started",
+    "winner": {
+     "id": null,
+     "type": "Team"
+    },
+    "begin_at": null,
+    "length": null,
+    "finished": false
+   },
+   {
+    "id": 17723043,
+    "position": 3,
+    "status": "not_started",
+    "winner": {
+     "id": null,
+     "type": "Team"
+    },
+    "begin_at": null,
+    "length": null,
+    "finished": false
+   }
+  ],
+  "league": {
+   "name": "CCT Europe Contenders #10 2026",
+   "image_url": "https://cdn-api.pandascore.co/images/league/image/5232/799px-cct_2024_europe_allmode-png"
+  },
+  "serie": {
+   "full_name": ""
+  },
+  "tournament": {
+   "tier": "D",
+   "name": "Playoffs",
+   "prizepool": "2,500 United States Dollar",
+   "type": "online"
+  },
+  "streams_list": [
+   {
+    "language": "en",
+    "raw_url": "https://kick.com/channel0",
+    "official": true,
+    "main": true
+   }
+  ]
+ }
+]

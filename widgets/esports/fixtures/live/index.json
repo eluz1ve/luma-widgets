@@ -1,0 +1,6 @@
+{
+ "https://api.pandascore.co/csgo/matches/running?per_page=25&sort=begin_at": "running.json",
+ "https://api.pandascore.co/csgo/matches/upcoming?per_page=50&sort=begin_at": "upcoming.json",
+ "https://eluz1ve.github.io/luma-feeds/esports/csgo.json": "shared.json",
+ "https://api.pandascore.co/csgo/teams?filter%5Bid%5D=3210%2C127911%2C128432%2C133063%2C135673%2C137357%2C138988%2C139450&per_page=100": "teams.json"
+}

@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "id": "template",
+  "version": "1.0.0",
+  "luma": "2.9.0",
+  "name": { "en": "Template" },
+  "description": { "en": "A minimal widget to copy: one request, one transform, ticker cards." },
+  "authors": ["your-github-login"],
+  "icon": "sparkles",
+  "origins": ["https://example.com"],
+  "size": { "default": [6, 1], "min": [4, 1], "max": [12, 2] },
+  "card": "ticker",
+  "strings": { "empty": { "en": "Nothing to show" } },
+  "settings": [
+    {
+      "id": "symbols",
+      "type": "choices",
+      "label": { "en": "Symbols" },
+      "options": [
+        { "value": "aaa", "label": { "en": "AAA" } },
+        { "value": "bbb", "label": { "en": "BBB" } }
+      ],
+      "default": ["aaa", "bbb"]
+    }
+  ],
+  "sources": [
+    {
+      "id": "main",
+      "refresh": { "every": 600, "min": 300 },
+      "requests": [
+        { "id": "quote", "for_each": "symbols", "url": "https://example.com/quotes/{item}.json" }
+      ],
+      "transform": { "file": "main.jq" }
+    }
+  ]
+}

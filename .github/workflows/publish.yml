@@ -1,0 +1,61 @@
+name: Publish catalog
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  LUMA_REV: 015030c4382a14a17e69c6e8cc58613b24b8369e
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    # The signing key is a secret of this environment, which only main may use.
+    environment: publish
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cargo/bin/luma-widget
+          key: luma-widget-${{ env.LUMA_REV }}
+      - name: Install luma-widget
+        run: |
+          command -v luma-widget ||
+            cargo install --locked --git https://github.com/eluz1ve/lg-luma --rev "$LUMA_REV" luma-widgets
+      - name: Check and test every widget
+        run: |
+          for widget in widgets/*/; do
+            luma-widget check "$widget"
+            luma-widget test "$widget"
+          done
+      - name: Pack, sign and verify
+        env:
+          CATALOG_SIGNING_KEY: ${{ secrets.CATALOG_SIGNING_KEY }}
+        run: |
+          luma-widget pack widgets site --sequence "$(date +%s)" --published "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          luma-widget sign site
+          luma-widget verify site --key "$(cat catalog.pub)"
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-24.04
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

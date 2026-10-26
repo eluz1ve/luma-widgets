@@ -1,0 +1,27 @@
+{
+  "empty": "Nothing to show",
+  "items": [
+    {
+      "card": {
+        "change": {
+          "text": "+2.4%",
+          "tone": "up"
+        },
+        "label": "AAA",
+        "value": "120.5"
+      },
+      "id": "aaa"
+    },
+    {
+      "card": {
+        "change": {
+          "text": "-1.1%",
+          "tone": "down"
+        },
+        "label": "BBB",
+        "value": "87"
+      },
+      "id": "bbb"
+    }
+  ]
+}

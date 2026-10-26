@@ -1,0 +1,13 @@
+{
+ "settings": {
+  "games": [
+   "csgo"
+  ],
+  "major_only": false
+ },
+ "secrets": {
+  "key": "fixture"
+ },
+ "lang": "en",
+ "now": 1793043100
+}

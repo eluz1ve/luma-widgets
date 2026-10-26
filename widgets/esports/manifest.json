@@ -1,0 +1,400 @@
+{
+  "schema": 1,
+  "id": "esports",
+  "version": "1.0.0",
+  "luma": "2.9.0",
+  "name": {
+    "en": "Esports",
+    "de": "E-Sport",
+    "zh": "电竞",
+    "es": "Esports",
+    "pt": "Esports",
+    "it": "Esport",
+    "ru": "Киберспорт"
+  },
+  "description": {
+    "en": "Live and upcoming matches of eight esports: scores, maps, lineups and streams.",
+    "de": "Laufende und anstehende Spiele aus acht E-Sports: Stände, Maps, Aufstellungen und Streams.",
+    "zh": "八个电竞项目的进行中和即将开始的比赛：比分、地图、阵容和直播。",
+    "es": "Partidas en curso y próximas de ocho esports: marcadores, mapas, alineaciones y retransmisiones.",
+    "pt": "Partidas ao vivo e próximas de oito esports: placares, mapas, escalações e transmissões.",
+    "it": "Partite in corso e in arrivo di otto esport: punteggi, mappe, formazioni e dirette.",
+    "ru": "Текущие и ближайшие матчи восьми дисциплин: счёт, карты, составы и трансляции."
+  },
+  "authors": [
+    "eluz1ve"
+  ],
+  "icon": "gaming",
+  "origins": [
+    "https://eluz1ve.github.io",
+    "https://api.pandascore.co",
+    "https://cdn-api.pandascore.co"
+  ],
+  "size": {
+    "default": [
+      6,
+      2
+    ],
+    "min": [
+      6,
+      2
+    ],
+    "max": [
+      12,
+      3
+    ]
+  },
+  "instances": 4,
+  "card": "scoreboard",
+  "strings": {
+    "map": {
+      "en": "Map {number}",
+      "de": "Map {number}",
+      "zh": "第 {number} 图",
+      "es": "Mapa {number}",
+      "pt": "Mapa {number}",
+      "it": "Mappa {number}",
+      "ru": "Карта {number}"
+    },
+    "maps": {
+      "en": "Maps",
+      "de": "Maps",
+      "zh": "地图",
+      "es": "Mapas",
+      "pt": "Mapas",
+      "it": "Mappe",
+      "ru": "Карты"
+    },
+    "minutes": {
+      "en": "{number} min",
+      "de": "{number} Min.",
+      "zh": "{number} 分钟",
+      "es": "{number} min",
+      "pt": "{number} min",
+      "it": "{number} min",
+      "ru": "{number} мин"
+    },
+    "decider": {
+      "en": "Decider",
+      "de": "Decider",
+      "zh": "决胜图",
+      "es": "Decisivo",
+      "pt": "Decisivo",
+      "it": "Decisiva",
+      "ru": "Десайдер"
+    },
+    "pick": {
+      "en": "{team} pick",
+      "de": "Pick {team}",
+      "zh": "{team} 选图",
+      "es": "Pick de {team}",
+      "pt": "Pick de {team}",
+      "it": "Pick {team}",
+      "ru": "Пик {team}"
+    },
+    "lineup": {
+      "en": "{team} lineup",
+      "de": "Aufstellung {team}",
+      "zh": "{team} 阵容",
+      "es": "Alineación de {team}",
+      "pt": "Escalação de {team}",
+      "it": "Formazione {team}",
+      "ru": "Состав {team}"
+    },
+    "noLineup": {
+      "en": "Lineup not announced",
+      "de": "Aufstellung nicht bekannt",
+      "zh": "阵容未公布",
+      "es": "Alineación sin anunciar",
+      "pt": "Escalação não anunciada",
+      "it": "Formazione non annunciata",
+      "ru": "Состав не объявлен"
+    },
+    "bench": {
+      "en": "Bench",
+      "de": "Ersatzbank",
+      "zh": "替补",
+      "es": "Suplentes",
+      "pt": "Reservas",
+      "it": "Riserve",
+      "ru": "Запасные"
+    },
+    "coach": {
+      "en": "Coach",
+      "de": "Trainer",
+      "zh": "教练",
+      "es": "Entrenador",
+      "pt": "Técnico",
+      "it": "Allenatore",
+      "ru": "Тренер"
+    },
+    "streams": {
+      "en": "Streams",
+      "de": "Streams",
+      "zh": "直播平台",
+      "es": "Retransmisiones",
+      "pt": "Transmissões",
+      "it": "Dirette",
+      "ru": "Трансляции"
+    },
+    "official": {
+      "en": "official",
+      "de": "offiziell",
+      "zh": "官方",
+      "es": "oficial",
+      "pt": "oficial",
+      "it": "ufficiale",
+      "ru": "официальная"
+    },
+    "online": {
+      "en": "Online",
+      "de": "Online",
+      "zh": "线上",
+      "es": "Online",
+      "pt": "Online",
+      "it": "Online",
+      "ru": "Онлайн"
+    },
+    "mapsCredit": {
+      "en": "Maps: Liquipedia (CC-BY-SA)",
+      "de": "Maps: Liquipedia (CC-BY-SA)",
+      "zh": "地图：Liquipedia（CC-BY-SA）",
+      "es": "Mapas: Liquipedia (CC-BY-SA)",
+      "pt": "Mapas: Liquipedia (CC-BY-SA)",
+      "it": "Mappe: Liquipedia (CC-BY-SA)",
+      "ru": "Карты: Liquipedia (CC-BY-SA)"
+    },
+    "lineupsCredit": {
+      "en": "Lineups: Liquipedia (CC-BY-SA)",
+      "de": "Aufstellungen: Liquipedia (CC-BY-SA)",
+      "zh": "阵容：Liquipedia（CC-BY-SA）",
+      "es": "Alineaciones: Liquipedia (CC-BY-SA)",
+      "pt": "Escalações: Liquipedia (CC-BY-SA)",
+      "it": "Formazioni: Liquipedia (CC-BY-SA)",
+      "ru": "Составы: Liquipedia (CC-BY-SA)"
+    },
+    "mapsLineupsCredit": {
+      "en": "Maps and lineups: Liquipedia (CC-BY-SA)",
+      "de": "Maps und Aufstellungen: Liquipedia (CC-BY-SA)",
+      "zh": "地图与阵容：Liquipedia（CC-BY-SA）",
+      "es": "Mapas y alineaciones: Liquipedia (CC-BY-SA)",
+      "pt": "Mapas e escalações: Liquipedia (CC-BY-SA)",
+      "it": "Mappe e formazioni: Liquipedia (CC-BY-SA)",
+      "ru": "Карты и составы: Liquipedia (CC-BY-SA)"
+    },
+    "sharedNote": {
+      "en": "Shared test data, refreshed every 15 minutes. For personal use, sign up at pandascore.co and add your own free key in the widget settings — it also gives live scores.",
+      "de": "Gemeinsame Testdaten, alle 15 Minuten aktualisiert. Für die persönliche Nutzung auf pandascore.co registrieren und einen eigenen kostenlosen Schlüssel eintragen – damit gibt es auch Live-Stände.",
+      "zh": "共享测试数据，每 15 分钟更新。个人使用请在 pandascore.co 注册，并在小组件设置中添加你自己的免费密钥——还能获得实时比分。",
+      "es": "Datos de prueba compartidos, actualizados cada 15 minutos. Para uso personal, regístrate en pandascore.co y añade tu clave gratuita en los ajustes del widget; también da marcadores en directo.",
+      "pt": "Dados de teste compartilhados, atualizados a cada 15 minutos. Para uso pessoal, cadastre-se em pandascore.co e adicione sua chave gratuita nas configurações do widget — ela também traz placares ao vivo.",
+      "it": "Dati di prova condivisi, aggiornati ogni 15 minuti. Per l’uso personale registrati su pandascore.co e aggiungi la tua chiave gratuita nelle impostazioni del widget: avrai anche i punteggi in diretta.",
+      "ru": "Общие тестовые данные, обновляются раз в 15 минут. Для личного использования зарегистрируйтесь на pandascore.co и добавьте свой бесплатный ключ в настройках виджета — с ним счёт будет в реальном времени."
+    },
+    "freeNote": {
+      "en": "Map names and round scores need a paid PandaScore plan.",
+      "de": "Kartennamen und Rundenstände erfordern einen kostenpflichtigen PandaScore-Tarif.",
+      "zh": "地图名称和回合比分需要 PandaScore 付费套餐。",
+      "es": "Los nombres de mapas y el marcador por rondas requieren un plan de pago de PandaScore.",
+      "pt": "Nomes dos mapas e placar por rodadas exigem um plano pago do PandaScore.",
+      "it": "Nomi delle mappe e punteggi dei round richiedono un piano PandaScore a pagamento.",
+      "ru": "Названия карт и счёт раундов — только на платном тарифе PandaScore."
+    },
+    "none": {
+      "en": "No live or upcoming matches",
+      "de": "Keine laufenden oder anstehenden Spiele",
+      "zh": "没有进行中或即将开始的比赛",
+      "es": "No hay partidas en curso ni próximas",
+      "pt": "Nenhuma partida ao vivo ou próxima",
+      "it": "Nessuna partita in corso o in arrivo",
+      "ru": "Сейчас нет текущих и ближайших матчей"
+    }
+  },
+  "settings": [
+    {
+      "id": "games",
+      "type": "choices",
+      "label": {
+        "en": "Disciplines",
+        "de": "Disziplinen",
+        "zh": "项目",
+        "es": "Disciplinas",
+        "pt": "Modalidades",
+        "it": "Discipline",
+        "ru": "Дисциплины"
+      },
+      "options": [
+        {
+          "value": "csgo",
+          "label": {
+            "en": "Counter-Strike 2"
+          }
+        },
+        {
+          "value": "dota2",
+          "label": {
+            "en": "Dota 2"
+          }
+        },
+        {
+          "value": "lol",
+          "label": {
+            "en": "League of Legends"
+          }
+        },
+        {
+          "value": "valorant",
+          "label": {
+            "en": "Valorant"
+          }
+        },
+        {
+          "value": "r6siege",
+          "label": {
+            "en": "Rainbow Six Siege"
+          }
+        },
+        {
+          "value": "ow",
+          "label": {
+            "en": "Overwatch 2"
+          }
+        },
+        {
+          "value": "rl",
+          "label": {
+            "en": "Rocket League"
+          }
+        },
+        {
+          "value": "codmw",
+          "label": {
+            "en": "Call of Duty"
+          }
+        }
+      ],
+      "default": [
+        "csgo"
+      ]
+    },
+    {
+      "id": "major_only",
+      "type": "toggle",
+      "label": {
+        "en": "Major events only",
+        "de": "Nur große Turniere",
+        "zh": "仅大型赛事",
+        "es": "Solo grandes torneos",
+        "pt": "Só grandes torneios",
+        "it": "Solo grandi tornei",
+        "ru": "Только крупные турниры"
+      },
+      "default": true
+    },
+    {
+      "id": "key",
+      "type": "secret",
+      "label": {
+        "en": "PandaScore API key",
+        "de": "PandaScore-API-Schlüssel",
+        "zh": "PandaScore API 密钥",
+        "es": "Clave API de PandaScore",
+        "pt": "Chave da API do PandaScore",
+        "it": "Chiave API PandaScore",
+        "ru": "Ключ API PandaScore"
+      },
+      "hint": {
+        "en": "Without a key the widget shows shared test data refreshed every 15 minutes. For personal use, sign up at pandascore.co (free) and add your access token here; it also gives live scores. One key serves every esports widget.",
+        "de": "Ohne Schlüssel zeigt das Widget gemeinsame Testdaten, alle 15 Minuten aktualisiert. Für die persönliche Nutzung auf pandascore.co (kostenlos) registrieren und das Access-Token hier eintragen; damit gibt es auch Live-Stände. Ein Schlüssel gilt für alle E-Sport-Widgets.",
+        "zh": "没有密钥时，小组件显示每 15 分钟更新的共享测试数据。个人使用请在 pandascore.co 免费注册，并在此添加访问令牌；还能获得实时比分。一个密钥适用于所有电竞小组件。",
+        "es": "Sin clave, el widget muestra datos de prueba compartidos actualizados cada 15 minutos. Para uso personal, regístrate en pandascore.co (gratis) y añade aquí tu token; también da marcadores en directo. Una clave sirve para todos los widgets de esports.",
+        "pt": "Sem chave, o widget mostra dados de teste compartilhados atualizados a cada 15 minutos. Para uso pessoal, cadastre-se em pandascore.co (grátis) e adicione seu token aqui; ele também traz placares ao vivo. Uma chave serve para todos os widgets de esports.",
+        "it": "Senza chiave il widget mostra dati di prova condivisi aggiornati ogni 15 minuti. Per l’uso personale registrati su pandascore.co (gratis) e aggiungi qui il tuo token; avrai anche i punteggi in diretta. Una chiave vale per tutti i widget esport.",
+        "ru": "Без ключа виджет показывает общие тестовые данные с обновлением раз в 15 минут. Для личного использования зарегистрируйтесь на pandascore.co (бесплатно) и добавьте здесь свой токен — с ним счёт будет в реальном времени. Один ключ — для всех виджетов киберспорта."
+      },
+      "send_to": [
+        "https://api.pandascore.co"
+      ],
+      "max_length": 128,
+      "pattern": "^[A-Za-z0-9._-]{1,128}$"
+    }
+  ],
+  "library": {
+    "file": "library.jq"
+  },
+  "sources": [
+    {
+      "id": "shared",
+      "when": {
+        "no_secret": "key"
+      },
+      "refresh": {
+        "every": 300,
+        "min": 300
+      },
+      "requests": [
+        {
+          "id": "feed",
+          "for_each": "games",
+          "url": "https://eluz1ve.github.io/luma-feeds/esports/{item}.json"
+        }
+      ],
+      "transform": {
+        "file": "shared.jq"
+      }
+    },
+    {
+      "id": "live",
+      "when": {
+        "secret": "key"
+      },
+      "refresh": {
+        "every": 300,
+        "min": 30
+      },
+      "requests": [
+        {
+          "id": "running",
+          "for_each": "games",
+          "max_age": 0,
+          "url": "https://api.pandascore.co/{item}/matches/running?per_page=25&sort=begin_at",
+          "headers": {
+            "Authorization": "Bearer {secret.key}"
+          }
+        },
+        {
+          "id": "upcoming",
+          "for_each": "games",
+          "max_age": 0,
+          "url": "https://api.pandascore.co/{item}/matches/upcoming?per_page=50&sort=begin_at",
+          "headers": {
+            "Authorization": "Bearer {secret.key}"
+          }
+        },
+        {
+          "id": "shared",
+          "for_each": "games",
+          "max_age": 300,
+          "required": false,
+          "url": "https://eluz1ve.github.io/luma-feeds/esports/{item}.json"
+        },
+        {
+          "id": "teams",
+          "for_each": "games",
+          "max_age": 1800,
+          "required": false,
+          "vars": {
+            "ids": "[ps_selected($item)[] | (.opponents // [])[:2][] | .opponent.id | numbers] | unique | map(tostring) | join(\",\") | select(. != \"\")"
+          },
+          "url": "https://api.pandascore.co/{item}/teams?filter%5Bid%5D={var.ids}&per_page=100",
+          "headers": {
+            "Authorization": "Bearer {secret.key}"
+          }
+        }
+      ],
+      "transform": {
+        "file": "live.jq"
+      }
+    }
+  ]
+}

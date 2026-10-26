@@ -1,0 +1,217 @@
+{
+  "empty": "No live or upcoming matches",
+  "items": [
+    {
+      "card": {
+        "caption": "PGL Masters Bucharest 2026",
+        "live": true,
+        "logo": "https://cdn-api.pandascore.co/images/league/image/5442/pgl_masters_bucharest_2025_allmode-png",
+        "progress": {
+          "label": "Map 3 · Inferno",
+          "steps": [
+            "done",
+            "done",
+            "live"
+          ],
+          "value": null
+        },
+        "sides": [
+          {
+            "image": "https://cdn-api.pandascore.co/images/team/image/3210/5995.png",
+            "lead": true,
+            "name": "G2",
+            "score": "1",
+            "short": "G2"
+          },
+          {
+            "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/138988/454px_dendele_cs_allmode.png",
+            "lead": true,
+            "name": "DENDELE CS",
+            "score": "1",
+            "short": "DEN"
+          }
+        ],
+        "status": null
+      },
+      "dialog": {
+        "footer": {
+          "credit": "Maps: Liquipedia (CC-BY-SA)",
+          "label": "Streams",
+          "note": "Shared test data, refreshed every 15 minutes. For personal use, sign up at pandascore.co and add your own free key in the widget settings — it also gives live scores.",
+          "text": "EN Twitch (official) · PT Kick · RU Twitch"
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO3"
+            },
+            {
+              "text": "Tier A"
+            },
+            {
+              "text": "LAN"
+            }
+          ],
+          "logo": "https://cdn-api.pandascore.co/images/league/image/5442/pgl_masters_bucharest_2025_allmode-png",
+          "subtitle": "Counter-Strike 2 · Group Stage",
+          "title": "PGL Masters Bucharest 2026"
+        },
+        "hero": {
+          "lines": [
+            "Map 3 · Inferno",
+            {
+              "as_of": 1793043043
+            }
+          ],
+          "live": true,
+          "sides": [
+            {
+              "caption": "DE",
+              "image": "https://cdn-api.pandascore.co/images/team/image/3210/5995.png",
+              "lead": true,
+              "name": "G2",
+              "score": "1",
+              "short": "G2"
+            },
+            {
+              "caption": "BR",
+              "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/138988/454px_dendele_cs_allmode.png",
+              "lead": true,
+              "name": "DENDELE CS",
+              "score": "1",
+              "short": "DEN"
+            }
+          ]
+        },
+        "lists": [
+          {
+            "empty": "Lineup not announced",
+            "extra": [],
+            "image": "https://cdn-api.pandascore.co/images/team/image/3210/5995.png",
+            "name": "G2",
+            "rows": [
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/17958/900px_hu_nter__epl_s10_finals_odense_2019.png",
+                "meta": "BA",
+                "subtitle": "Nemanja Kovač",
+                "title": "huNter-"
+              },
+              {
+                "image": "https://cdn-api.pandascore.co/images/player/image/24880/pg_fb_tlvw_400x400.png",
+                "meta": "IL",
+                "subtitle": "Guy Iluz",
+                "title": "NertZ"
+              },
+              {
+                "image": null,
+                "meta": "UA",
+                "subtitle": "Artem Moroz",
+                "title": "r1nkle"
+              },
+              {
+                "image": null,
+                "meta": "IL",
+                "subtitle": "Nikita Martynenko",
+                "title": "HeavyGod"
+              },
+              {
+                "image": null,
+                "meta": "SK",
+                "subtitle": "Matúš Šimko",
+                "title": "MATYS"
+              }
+            ],
+            "title": "G2 lineup"
+          },
+          {
+            "empty": "Lineup not announced",
+            "extra": [],
+            "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/138988/454px_dendele_cs_allmode.png",
+            "name": "DEN",
+            "rows": [
+              {
+                "image": null,
+                "meta": "BR",
+                "subtitle": "Victor Andrade",
+                "title": "Gafolo"
+              },
+              {
+                "image": null,
+                "meta": "BR",
+                "subtitle": "João Pedro",
+                "title": "koala"
+              },
+              {
+                "image": null,
+                "meta": "AR",
+                "subtitle": "Máximo Cortina",
+                "title": "maxxkor"
+              },
+              {
+                "image": null,
+                "meta": "BR",
+                "subtitle": "Daniel Monteiro",
+                "title": "rdnzao"
+              },
+              {
+                "image": null,
+                "meta": "BR",
+                "subtitle": "Danilo Barros",
+                "title": "doc"
+              }
+            ],
+            "title": "DEN lineup"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "note": null,
+              "number": "01",
+              "placeholder": "Map 1",
+              "result": {
+                "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/138988/454px_dendele_cs_allmode.png",
+                "name": "DEN",
+                "text": "DEN · 49 min"
+              },
+              "state": "done",
+              "title": "Nuke",
+              "value": "5:13"
+            },
+            {
+              "note": null,
+              "number": "02",
+              "placeholder": "Map 2",
+              "result": {
+                "image": "https://cdn-api.pandascore.co/images/team/image/3210/5995.png",
+                "name": "G2",
+                "text": "G2 · 68 min"
+              },
+              "state": "done",
+              "title": "Ancient",
+              "value": "16:14"
+            },
+            {
+              "note": null,
+              "number": "03",
+              "placeholder": "Map 3",
+              "result": {
+                "text": {
+                  "elapsed": "2026-10-26T19:06:21Z"
+                }
+              },
+              "state": "live",
+              "title": "Inferno",
+              "value": null
+            }
+          ],
+          "slots": 3,
+          "title": "Maps"
+        }
+      },
+      "id": "1753711"
+    }
+  ],
+  "title": "Counter-Strike 2",
+  "updated": 1793043043
+}

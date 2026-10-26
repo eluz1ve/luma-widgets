@@ -1,0 +1,406 @@
+[
+ {
+  "id": 3210,
+  "name": "G2",
+  "acronym": "G2",
+  "players": [
+   {
+    "name": "huNter-",
+    "first_name": "Nemanja",
+    "last_name": "Kovač",
+    "nationality": "BA",
+    "role": null,
+    "age": 30,
+    "image_url": "https://cdn-api.pandascore.co/images/player/image/17958/900px_hu_nter__epl_s10_finals_odense_2019.png",
+    "active": true
+   },
+   {
+    "name": "NertZ",
+    "first_name": "Guy",
+    "last_name": "Iluz",
+    "nationality": "IL",
+    "role": null,
+    "age": 27,
+    "image_url": "https://cdn-api.pandascore.co/images/player/image/24880/pg_fb_tlvw_400x400.png",
+    "active": true
+   },
+   {
+    "name": "r1nkle",
+    "first_name": "Artem",
+    "last_name": "Moroz",
+    "nationality": "UA",
+    "role": null,
+    "age": 21,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "HeavyGod",
+    "first_name": "Nikita",
+    "last_name": "Martynenko",
+    "nationality": "IL",
+    "role": null,
+    "age": 24,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "MATYS",
+    "first_name": "Matúš",
+    "last_name": "Šimko",
+    "nationality": "SK",
+    "role": null,
+    "age": 24,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "retired",
+    "first_name": null,
+    "last_name": null,
+    "nationality": null,
+    "role": null,
+    "age": null,
+    "image_url": null,
+    "active": false
+   }
+  ]
+ },
+ {
+  "id": 138988,
+  "name": "DENDELE CS",
+  "acronym": "DEN",
+  "players": [
+   {
+    "name": "Gafolo",
+    "first_name": "Victor",
+    "last_name": "Andrade",
+    "nationality": "BR",
+    "role": null,
+    "age": 24,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "koala",
+    "first_name": "João",
+    "last_name": "Pedro",
+    "nationality": "BR",
+    "role": null,
+    "age": 21,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "maxxkor",
+    "first_name": "Máximo",
+    "last_name": "Cortina",
+    "nationality": "AR",
+    "role": null,
+    "age": 23,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "rdnzao",
+    "first_name": "Daniel",
+    "last_name": "Monteiro",
+    "nationality": "BR",
+    "role": null,
+    "age": 23,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "doc",
+    "first_name": "Danilo",
+    "last_name": "Barros",
+    "nationality": "BR",
+    "role": null,
+    "age": 24,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "retired",
+    "first_name": null,
+    "last_name": null,
+    "nationality": null,
+    "role": null,
+    "age": null,
+    "image_url": null,
+    "active": false
+   }
+  ]
+ },
+ {
+  "id": 135673,
+  "name": "Nuclear TigeRES",
+  "acronym": "NTR",
+  "players": [
+   {
+    "name": "senka",
+    "first_name": "Arseniy",
+    "last_name": "Kozlovsky",
+    "nationality": "BY",
+    "role": null,
+    "age": 20,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "m1QUSE",
+    "first_name": "Denis",
+    "last_name": "Karpovich",
+    "nationality": "BY",
+    "role": null,
+    "age": 19,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "Djon8",
+    "first_name": "Evgeny",
+    "last_name": "Mudrenov",
+    "nationality": "RU",
+    "role": null,
+    "age": 21,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "flouzer",
+    "first_name": "Ilya",
+    "last_name": "Selifonov",
+    "nationality": "RU",
+    "role": null,
+    "age": 18,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "ayuki",
+    "first_name": "Egor",
+    "last_name": "Ershov",
+    "nationality": "RU",
+    "role": null,
+    "age": 18,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "tronic",
+    "first_name": "Kamil",
+    "last_name": "Shakhov",
+    "nationality": "RU",
+    "role": null,
+    "age": null,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "retired",
+    "first_name": null,
+    "last_name": null,
+    "nationality": null,
+    "role": null,
+    "age": null,
+    "image_url": null,
+    "active": false
+   }
+  ]
+ },
+ {
+  "id": 133063,
+  "name": "UNiTY esports",
+  "acronym": "UNiTY",
+  "players": [
+   {
+    "name": "Dytor",
+    "first_name": "Martin",
+    "last_name": "Handl",
+    "nationality": "CZ",
+    "role": null,
+    "age": 23,
+    "image_url": "https://cdn-api.pandascore.co/images/player/image/28703/image_asset.png",
+    "active": true
+   },
+   {
+    "name": "KWERTZZ",
+    "first_name": "Simon",
+    "last_name": "Horák",
+    "nationality": "CZ",
+    "role": null,
+    "age": 24,
+    "image_url": "https://cdn-api.pandascore.co/images/player/image/32000/n_n_j0t_ve_400x400.png",
+    "active": true
+   },
+   {
+    "name": "Sn0w",
+    "first_name": "Timmy",
+    "last_name": "Brun",
+    "nationality": "SE",
+    "role": null,
+    "age": 22,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "M1key",
+    "first_name": "Jakub",
+    "last_name": "Krausko",
+    "nationality": "SK",
+    "role": null,
+    "age": 22,
+    "image_url": "https://cdn-api.pandascore.co/images/player/image/34081/600px_enterprise_m1key_2023.png",
+    "active": true
+   },
+   {
+    "name": "2high",
+    "first_name": "Ahmet",
+    "last_name": "Baftijari",
+    "nationality": "MK",
+    "role": null,
+    "age": 26,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "retired",
+    "first_name": null,
+    "last_name": null,
+    "nationality": null,
+    "role": null,
+    "age": null,
+    "image_url": null,
+    "active": false
+   }
+  ]
+ },
+ {
+  "id": 127911,
+  "name": "MASONIC",
+  "acronym": "MSC",
+  "players": [
+   {
+    "name": "b0RUP",
+    "first_name": "Johannes",
+    "last_name": "Borup",
+    "nationality": "DK",
+    "role": null,
+    "age": 27,
+    "image_url": "https://cdn-api.pandascore.co/images/player/image/19957/900px_b0_rup_at_dreamhack_open_leipzig_2020.png",
+    "active": true
+   },
+   {
+    "name": "fr0slev",
+    "first_name": "Magnus",
+    "last_name": "Frøslev",
+    "nationality": "DK",
+    "role": null,
+    "age": 29,
+    "image_url": "https://cdn-api.pandascore.co/images/player/image/25133/fr_253_fslev.png",
+    "active": true
+   },
+   {
+    "name": "grumpyMonk",
+    "first_name": "Mathias",
+    "last_name": "Stentoft",
+    "nationality": "DK",
+    "role": null,
+    "age": 27,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "Botman",
+    "first_name": "Niklas",
+    "last_name": "Vestergaard",
+    "nationality": "DK",
+    "role": null,
+    "age": 23,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "Bukhavez",
+    "first_name": "Jonas",
+    "last_name": "Vestergaard",
+    "nationality": "DK",
+    "role": null,
+    "age": 23,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "KralleJ",
+    "first_name": "Kristian",
+    "last_name": "Jensen",
+    "nationality": "DK",
+    "role": null,
+    "age": 19,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "slexa",
+    "first_name": "Alexander",
+    "last_name": "Marrup",
+    "nationality": "DK",
+    "role": null,
+    "age": 16,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "retired",
+    "first_name": null,
+    "last_name": null,
+    "nationality": null,
+    "role": null,
+    "age": null,
+    "image_url": null,
+    "active": false
+   }
+  ]
+ },
+ {
+  "id": 128432,
+  "name": "struggletony",
+  "acronym": "st0ny",
+  "players": [
+   {
+    "name": "SP4C3CR34T0R",
+    "first_name": null,
+    "last_name": null,
+    "nationality": "DK",
+    "role": null,
+    "age": null,
+    "image_url": null,
+    "active": true
+   },
+   {
+    "name": "retired",
+    "first_name": null,
+    "last_name": null,
+    "nationality": null,
+    "role": null,
+    "age": null,
+    "image_url": null,
+    "active": false
+   }
+  ]
+ },
+ {
+  "id": 139450,
+  "name": "prodigy",
+  "acronym": "prodigy",
+  "players": []
+ },
+ {
+  "id": 137357,
+  "name": "X-CITY",
+  "acronym": "X-CITY",
+  "players": []
+ }
+]

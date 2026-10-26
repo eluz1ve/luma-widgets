@@ -1,0 +1,36 @@
+name: Check widgets
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+env:
+  # The lg-luma commit whose luma-widget checks the catalog; Luma releases bump it.
+  LUMA_REV: 015030c4382a14a17e69c6e8cc58613b24b8369e
+
+jobs:
+  check:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cargo/bin/luma-widget
+          key: luma-widget-${{ env.LUMA_REV }}
+      - name: Install luma-widget
+        run: |
+          command -v luma-widget ||
+            cargo install --locked --git https://github.com/eluz1ve/lg-luma --rev "$LUMA_REV" luma-widgets
+      - name: Check and test every widget
+        run: |
+          for widget in widgets/*/; do
+            luma-widget check "$widget"
+            luma-widget test "$widget"
+          done
+      - name: Pack
+        run: luma-widget pack widgets out --sequence 1
