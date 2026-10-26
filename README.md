@@ -81,8 +81,9 @@ your widget's origins ──GET──► replies ──jq transform──► wid
    `LUMA_WIDGET_SECRET_KEY`); it is never written anywhere.
 
 6. See it as a TV will: run Luma on your computer with `luma --widget-dev widgets/<id>`
-   (add `--fixtures` for no network). Save a screenshot of the row and the dialog as
-   `preview.png`.
+   (add `--widget-fixtures widgets/<id>/fixtures/<case>` for no network; a secret for one run
+   comes from `LUMA_WIDGET_SECRET_<ID>_<SETTING>`, never saved). Save a screenshot of the row
+   and the dialog as `preview.png`.
 
 ## Submit it
 

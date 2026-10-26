@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "template",
   "version": "1.0.0",
-  "luma": "2.9.0",
+  "luma": "2.8.4",
   "name": { "en": "Template" },
   "description": { "en": "A minimal widget to copy: one request, one transform, ticker cards." },
   "authors": ["your-github-login"],
