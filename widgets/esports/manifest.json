@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "id": "esports",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "luma": "2.8.4",
   "name": {
     "en": "Esports",

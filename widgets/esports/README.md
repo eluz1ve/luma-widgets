@@ -10,14 +10,16 @@ substitutes and coach, and where it streams.
 - **Without a key** (`shared`): the shared feed of
   [eluz1ve/luma-feeds](https://github.com/eluz1ve/luma-feeds), rebuilt every 15 minutes on
   GitHub Actions from PandaScore's free plan and Liquipedia. It is test data, refreshed every
-  5 minutes on the TV.
+  5 minutes on the TV. Near the start and live, a match's lineups are its tournament's on
+  Liquipedia (starters, bench and coach), with photos and real names from PandaScore.
 - **With your own free [PandaScore](https://pandascore.co) key** (`live`): running and
   upcoming matches straight from PandaScore every 30 s while a match is live (two lists per
   discipline, within the free plan's 1,000 requests an hour), the teams' lineups every 30
   minutes, and map names, round scores, picks and substitutes merged from the shared feed by
-  match id. The key goes only to `api.pandascore.co`.
+  match id; lineups the shared feed has from Liquipedia replace PandaScore's rosters. The key
+  goes only to `api.pandascore.co`.
 
 ## Credits
 
-Match data: PandaScore. Map names, round scores, picks, vetoes and substitutes:
+Match data: PandaScore. Map names, round scores, picks, vetoes and lineups:
 [Liquipedia](https://liquipedia.net), CC-BY-SA 3.0, credited in the dialog whenever shown.

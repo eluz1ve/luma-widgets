@@ -170,10 +170,23 @@
       "role": "",
       "age": 24,
       "image": ""
+     },
+     {
+      "name": "DENcoach",
+      "real_name": "",
+      "nationality": "BG",
+      "role": "coach",
+      "age": null,
+      "image": null,
+      "substitute": true
      }
     ]
    ],
-   "maps_source": "Liquipedia"
+   "maps_source": "Liquipedia",
+   "lineups_source": [
+    "",
+    "Liquipedia"
+   ]
   },
   {
    "id": 1727903,

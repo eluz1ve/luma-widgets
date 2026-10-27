@@ -298,6 +298,10 @@
               {
                 "label": "Bench",
                 "text": "m1QUSE"
+              },
+              {
+                "label": "Coach",
+                "text": "LPcoach"
               }
             ],
             "image": "https://cdn-api.pandascore.co/images/team/image/135673/285px_nuclear_tige_res_lightmode.png",
@@ -326,12 +330,6 @@
                 "meta": "RU",
                 "subtitle": "Egor Ershov",
                 "title": "ayuki"
-              },
-              {
-                "image": null,
-                "meta": "RU",
-                "subtitle": "Kamil Shakhov",
-                "title": "tronic"
               }
             ],
             "title": "NTR lineup"

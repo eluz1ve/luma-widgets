@@ -104,8 +104,8 @@ def ps_rosters:
    | {key: (.id | tostring), value: ([(.players // [])[] | select(.active != false) | ps_player][:7])}]
   | from_entries;
 
-# The shared feed's lineups by team id; a team in several matches keeps the lineup Liquipedia
-# marked.
+# The shared feed's lineups by team id, and which of them are Liquipedia's own: a team in several
+# matches keeps Liquipedia's lineup, else the one with its substitutes marked.
 def feed_player:
   (if type == "string" then {name: .} else . end)
   | select((.name // "") != "")
@@ -119,14 +119,24 @@ def feed_player:
     };
 
 def feed_rosters:
-  reduce (.matches // [])[:20][] as $m ({};
+  reduce (.matches // [])[:20][] as $m ({players: {}, liquipedia: {}};
     reduce (0, 1) as $side (.;
       $m.teams[$side] as $team
-      | ([($m.lineups[$side] // [])[] | feed_player][:7]) as $players
+      | ([($m.lineups[$side] // [])[] | feed_player][:10]) as $players
+      | ((($m.lineups_source // [])[$side] // "") == "Liquipedia") as $own
       | if $team == null or ($players | length) == 0 then .
         else ($team.id | tostring) as $id
-        | if any(.[$id][]?; .substitute) then . else .[$id] = $players end
+        | if .liquipedia[$id] then .
+          elif $own then .players[$id] = $players | .liquipedia[$id] = true
+          elif any(.players[$id][]?; .substitute) then .
+          else .players[$id] = $players end
         end));
+
+# Several disciplines' lineups together.
+def all_rosters(feeds):
+  reduce feeds as $feed ({players: {}, liquipedia: {}};
+    ($feed | feed_rosters) as $r
+    | .players += $r.players | .liquipedia += $r.liquipedia);
 
 # PandaScore's lineup marked as the shared feed marks the team's, by nickname.
 def merge_substitutes($shared):
@@ -255,12 +265,13 @@ def streams_text:
         + (if .official then " (\($t.official))" else "" end))
   | join(" · ");
 
-def dialog($rosters; $updated):
+def dialog($rosters; $liquipedia; $updated):
   . as $match
   | (first(.games[] | select(.state == "running")) // null) as $live
   | live_number as $number
   | [.teams[] | if . == null then null else ($rosters[.id | tostring] // []) end] as $players
-  | ([$players[] | select(. != null)[]] | any(.substitute)) as $benched
+  | ([$players[] | select(. != null)[]] | any(.substitute)
+     or any($match.teams[] | select(. != null); $liquipedia[.id | tostring] == true)) as $lineups
   | (.streams | streams_text) as $streams
   | {
       header: {
@@ -293,18 +304,18 @@ def dialog($rosters; $updated):
       footer: {
         label: (if $streams != "" then $t.streams else null end),
         text: ($streams | nonempty),
-        credit: (if .maps_source != "" and $benched then $t.mapsLineupsCredit
+        credit: (if .maps_source != "" and $lineups then $t.mapsLineupsCredit
                  elif .maps_source != "" then $t.mapsCredit
-                 elif $benched then $t.lineupsCredit else null end),
+                 elif $lineups then $t.lineupsCredit else null end),
         note: (if $source == "shared" then $t.sharedNote else $t.freeNote end)
       }
     };
 
-def document($matches; $rosters; $updated):
+def document($matches; $rosters; $liquipedia; $updated):
   ($settings.games | length > 1) as $several
   | {
       title: ($settings.games | map(game_name(.)) | join(", ")),
       updated: $updated,
       empty: $t.none,
-      items: [$matches | shown[] | {id: (.id | tostring), card: card($several), dialog: dialog($rosters; $updated)}]
+      items: [$matches | shown[] | {id: (.id | tostring), card: card($several), dialog: dialog($rosters; $liquipedia; $updated)}]
     };

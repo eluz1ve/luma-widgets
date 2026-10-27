@@ -35,7 +35,7 @@
       },
       "dialog": {
         "footer": {
-          "credit": "Карты: Liquipedia (CC-BY-SA)",
+          "credit": "Карты и составы: Liquipedia (CC-BY-SA)",
           "label": "Трансляции",
           "note": "Общие тестовые данные, обновляются раз в 15 минут. Для личного использования зарегистрируйтесь на pandascore.co и добавьте свой бесплатный ключ в настройках виджета — с ним счёт будет в реальном времени.",
           "text": "EN Twitch (официальная) · PT Kick · RU Twitch"
@@ -125,7 +125,12 @@
           },
           {
             "empty": "Состав не объявлен",
-            "extra": [],
+            "extra": [
+              {
+                "label": "Тренер",
+                "text": "DENcoach"
+              }
+            ],
             "image": "https://cdn-api.pandascore.co/dark_images/team/dark_image/138988/454px_dendele_cs_allmode.png",
             "name": "DEN",
             "rows": [

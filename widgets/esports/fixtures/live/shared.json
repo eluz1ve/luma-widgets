@@ -294,12 +294,13 @@
       "image": ""
      },
      {
-      "name": "tronic",
-      "real_name": "Kamil Shakhov",
+      "name": "LPcoach",
+      "real_name": "",
       "nationality": "RU",
-      "role": "",
+      "role": "coach",
       "age": null,
-      "image": ""
+      "image": null,
+      "substitute": true
      }
     ],
     [
@@ -345,7 +346,11 @@
      }
     ]
    ],
-   "maps_source": "Liquipedia"
+   "maps_source": "Liquipedia",
+   "lineups_source": [
+    "Liquipedia",
+    ""
+   ]
   },
   {
    "id": 1688002,
