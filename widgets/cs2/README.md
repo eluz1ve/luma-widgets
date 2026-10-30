@@ -14,9 +14,9 @@ a match dialog with the series, each map with its rounds and winner, and both li
 ## Source
 
 The shared feed `cs2/matches.json` of [eluz1ve/luma-feeds](https://github.com/eluz1ve/luma-feeds),
-rebuilt every 15 minutes on GitHub Actions from [LiquipediaDB](https://api.liquipedia.net). The
+rebuilt every 5 minutes on GitHub Actions from [LiquipediaDB](https://api.liquipedia.net). The
 LiquipediaDB key lives only in that repository's secrets: the widget needs no key, and the TV
-contacts nothing but `eluz1ve.github.io`, every 5 minutes. Scores are as fresh as the last
+contacts nothing but `eluz1ve.github.io`, every 2 minutes. Scores are as fresh as the last
 build, which the row's header shows ("Data as of …").
 
 ## Credits

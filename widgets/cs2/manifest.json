@@ -85,13 +85,13 @@
       "ru": "Данные: Liquipedia (CC BY-SA 3.0)"
     },
     "note": {
-      "en": "Updated every 15 minutes.",
-      "de": "Alle 15 Minuten aktualisiert.",
-      "zh": "每 15 分钟更新一次。",
-      "es": "Se actualiza cada 15 minutos.",
-      "pt": "Atualizado a cada 15 minutos.",
-      "it": "Aggiornato ogni 15 minuti.",
-      "ru": "Обновляется каждые 15 минут."
+      "en": "Updated every 5 minutes.",
+      "de": "Alle 5 Minuten aktualisiert.",
+      "zh": "每 5 分钟更新一次。",
+      "es": "Se actualiza cada 5 minutos.",
+      "pt": "Atualizado a cada 5 minutos.",
+      "it": "Aggiornato ogni 5 minuti.",
+      "ru": "Обновляется каждые 5 минут."
     },
     "none": {
       "en": "No matches right now",
@@ -164,8 +164,8 @@
     {
       "id": "main",
       "refresh": {
-        "every": 300,
-        "min": 300
+        "every": 120,
+        "min": 120
       },
       "requests": [
         {
