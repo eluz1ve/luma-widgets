@@ -1,0 +1,310 @@
+{
+  "empty": "No Tier 1–2 matches this week",
+  "items": [
+    {
+      "card": {
+        "caption": "PGL Masters Bucharest 2026",
+        "footer": "BO3 · Playoffs · Tier 1",
+        "live": false,
+        "sides": [
+          {
+            "name": "MOUZ",
+            "short": "MOUZ"
+          },
+          {
+            "name": "Team Vitality",
+            "short": "Vitality"
+          }
+        ],
+        "status": {
+          "start": "2026-10-31T08:00:00Z"
+        }
+      },
+      "dialog": {
+        "footer": {
+          "credit": "Data: Liquipedia (CC BY-SA 3.0)",
+          "note": "Updated every 5 minutes."
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO3"
+            },
+            {
+              "text": "Tier 1",
+              "tone": "gold"
+            }
+          ],
+          "subtitle": "Counter-Strike 2 · Playoffs",
+          "title": "PGL Masters Bucharest 2026"
+        },
+        "hero": {
+          "lines": [
+            {
+              "start": "2026-10-31T08:00:00Z"
+            }
+          ],
+          "live": false,
+          "sides": [
+            {
+              "name": "MOUZ",
+              "short": "MOUZ"
+            },
+            {
+              "name": "Team Vitality",
+              "short": "Vitality"
+            }
+          ]
+        },
+        "lists": [
+          {
+            "empty": "No lineup yet",
+            "name": "MOUZ",
+            "rows": [
+              {
+                "meta": "Hungary",
+                "title": "torzsi"
+              },
+              {
+                "meta": "Israel",
+                "title": "xertioN"
+              },
+              {
+                "meta": "Israel",
+                "title": "Spinx"
+              },
+              {
+                "meta": "Hungary",
+                "title": "xelex"
+              },
+              {
+                "meta": "Czechia",
+                "title": "PR"
+              }
+            ],
+            "title": "MOUZ lineup"
+          },
+          {
+            "empty": "No lineup yet",
+            "name": "Vitality",
+            "rows": [
+              {
+                "meta": "France",
+                "title": "ZywOo"
+              },
+              {
+                "meta": "Israel",
+                "title": "flameZ"
+              },
+              {
+                "meta": "United Kingdom",
+                "title": "mezii"
+              },
+              {
+                "meta": "Estonia",
+                "title": "ropz"
+              },
+              {
+                "meta": "Lithuania",
+                "title": "jL"
+              }
+            ],
+            "title": "Vitality lineup"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "number": "01",
+              "placeholder": "Map 1",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "number": "02",
+              "placeholder": "Map 2",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "number": "03",
+              "placeholder": "Map 3",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            }
+          ],
+          "slots": 3,
+          "title": "Maps"
+        }
+      },
+      "id": "VoCvX8lnm9_RxMTP"
+    },
+    {
+      "card": {
+        "caption": "PGL Masters Bucharest 2026",
+        "footer": "BO5 · Playoffs · Tier 1",
+        "live": false,
+        "sides": [
+          {
+            "name": "FURIA",
+            "short": "FURIA"
+          },
+          {
+            "name": "Nemiga Gaming",
+            "short": "Nemiga"
+          }
+        ],
+        "status": {
+          "start": "2026-10-31T11:00:00Z"
+        }
+      },
+      "dialog": {
+        "footer": {
+          "credit": "Data: Liquipedia (CC BY-SA 3.0)",
+          "note": "Updated every 5 minutes."
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO5"
+            },
+            {
+              "text": "Tier 1",
+              "tone": "gold"
+            }
+          ],
+          "subtitle": "Counter-Strike 2 · Playoffs",
+          "title": "PGL Masters Bucharest 2026"
+        },
+        "hero": {
+          "lines": [
+            {
+              "start": "2026-10-31T11:00:00Z"
+            }
+          ],
+          "live": false,
+          "sides": [
+            {
+              "name": "FURIA",
+              "short": "FURIA"
+            },
+            {
+              "name": "Nemiga Gaming",
+              "short": "Nemiga"
+            }
+          ]
+        },
+        "lists": [
+          {
+            "empty": "No lineup yet",
+            "name": "FURIA",
+            "rows": [
+              {
+                "meta": "Brazil",
+                "title": "yuurih"
+              },
+              {
+                "meta": "Brazil",
+                "title": "KSCERATO"
+              },
+              {
+                "meta": "Brazil",
+                "title": "FalleN"
+              },
+              {
+                "meta": "Kazakhstan",
+                "title": "molodoy"
+              },
+              {
+                "meta": "Latvia",
+                "title": "YEKINDAR"
+              }
+            ],
+            "title": "FURIA lineup"
+          },
+          {
+            "empty": "No lineup yet",
+            "name": "Nemiga",
+            "rows": [
+              {
+                "meta": "Kazakhstan",
+                "title": "khaN"
+              },
+              {
+                "meta": "Kazakhstan",
+                "title": "SYPH0"
+              },
+              {
+                "meta": "Russia",
+                "title": "KaiR0N-"
+              },
+              {
+                "meta": "Russia",
+                "title": "robo"
+              },
+              {
+                "meta": "Russia",
+                "title": "Xant3r"
+              }
+            ],
+            "title": "Nemiga lineup"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "number": "01",
+              "placeholder": "Map 1",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "number": "02",
+              "placeholder": "Map 2",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "number": "03",
+              "placeholder": "Map 3",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "number": "04",
+              "placeholder": "Map 4",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "number": "05",
+              "placeholder": "Map 5",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            }
+          ],
+          "slots": 5,
+          "title": "Maps"
+        }
+      },
+      "id": "VoCvX8lnm9_R03-M001"
+    }
+  ],
+  "updated": 1793395304
+}

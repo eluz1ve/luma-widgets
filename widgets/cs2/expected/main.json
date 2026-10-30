@@ -1,0 +1,1033 @@
+{
+  "empty": "No matches right now",
+  "items": [
+    {
+      "card": {
+        "caption": "CCT EU 2026 Contenders #10",
+        "live": true,
+        "progress": {
+          "label": "Map 3 · Dust II",
+          "steps": [
+            "done",
+            "done",
+            "live"
+          ],
+          "value": "15:15"
+        },
+        "sides": [
+          {
+            "lead": true,
+            "name": "Ducks",
+            "score": "1",
+            "short": "Ducks"
+          },
+          {
+            "lead": true,
+            "name": "Aurora Young Blud",
+            "score": "1",
+            "short": "Aurora YB"
+          }
+        ],
+        "status": null
+      },
+      "dialog": {
+        "footer": {
+          "credit": "Data: Liquipedia (CC BY-SA 3.0)",
+          "note": "Updated every 5 minutes."
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO3"
+            },
+            {
+              "text": "Tier 4"
+            }
+          ],
+          "subtitle": "Counter-Strike 2 · Results",
+          "title": "CCT EU 2026 Contenders #10"
+        },
+        "hero": {
+          "lines": [
+            "Map 3 · Dust II · 15:15",
+            {
+              "as_of": 1793395304
+            }
+          ],
+          "live": true,
+          "sides": [
+            {
+              "lead": true,
+              "name": "Ducks",
+              "score": "1",
+              "short": "Ducks"
+            },
+            {
+              "lead": true,
+              "name": "Aurora Young Blud",
+              "score": "1",
+              "short": "Aurora YB"
+            }
+          ]
+        },
+        "lists": [
+          {
+            "empty": "No lineup yet",
+            "name": "Ducks",
+            "rows": [
+              {
+                "meta": "Russia",
+                "title": "7ckingsam"
+              },
+              {
+                "meta": "Russia",
+                "title": "ronkye"
+              },
+              {
+                "meta": "Russia",
+                "title": "zeokeN"
+              },
+              {
+                "meta": "Russia",
+                "title": "SALO_MUX"
+              },
+              {
+                "meta": "Russia",
+                "title": "eLa1z"
+              }
+            ],
+            "title": "Ducks lineup"
+          },
+          {
+            "empty": "No lineup yet",
+            "name": "Aurora YB",
+            "rows": [
+              {
+                "meta": "Russia",
+                "title": "meetyoxanaji"
+              },
+              {
+                "meta": "Russia",
+                "title": "Re1GN"
+              },
+              {
+                "meta": "Russia",
+                "title": "fluffy"
+              },
+              {
+                "meta": "Russia",
+                "title": "ms2180"
+              },
+              {
+                "meta": "Russia",
+                "title": "Sa1nTy"
+              }
+            ],
+            "title": "Aurora YB lineup"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "number": "01",
+              "placeholder": "Map 1",
+              "result": {
+                "name": "Ducks",
+                "text": "Ducks"
+              },
+              "state": "done",
+              "title": "Mirage",
+              "value": "13:3"
+            },
+            {
+              "number": "02",
+              "placeholder": "Map 2",
+              "result": {
+                "name": "Aurora YB",
+                "text": "Aurora YB"
+              },
+              "state": "done",
+              "title": "Ancient",
+              "value": "11:13"
+            },
+            {
+              "number": "03",
+              "placeholder": "Map 3",
+              "result": null,
+              "state": "live",
+              "title": "Dust II",
+              "value": "15:15"
+            }
+          ],
+          "slots": 3,
+          "title": "Maps"
+        }
+      },
+      "id": "OQGg5XrExD_R04-M003"
+    },
+    {
+      "card": {
+        "caption": "CCT EU 2026 Series #12",
+        "live": true,
+        "progress": {
+          "label": "Map 1 · Mirage",
+          "steps": [
+            "live",
+            "next",
+            "next"
+          ],
+          "value": null
+        },
+        "sides": [
+          {
+            "lead": true,
+            "name": "Phantom Esports",
+            "score": "0",
+            "short": "Phantom"
+          },
+          {
+            "lead": true,
+            "name": "lavked",
+            "score": "0",
+            "short": "lavked"
+          }
+        ],
+        "status": null
+      },
+      "dialog": {
+        "footer": {
+          "credit": "Data: Liquipedia (CC BY-SA 3.0)",
+          "note": "Updated every 5 minutes."
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO3"
+            },
+            {
+              "text": "Tier 3"
+            }
+          ],
+          "subtitle": "Counter-Strike 2 · Playoffs",
+          "title": "CCT EU 2026 Series #12"
+        },
+        "hero": {
+          "lines": [
+            "Map 1 · Mirage",
+            {
+              "as_of": 1793395304
+            }
+          ],
+          "live": true,
+          "sides": [
+            {
+              "lead": true,
+              "name": "Phantom Esports",
+              "score": "0",
+              "short": "Phantom"
+            },
+            {
+              "lead": true,
+              "name": "lavked",
+              "score": "0",
+              "short": "lavked"
+            }
+          ]
+        },
+        "lists": [
+          {
+            "empty": "No lineup yet",
+            "name": "Phantom",
+            "rows": [
+              {
+                "meta": "Poland",
+                "title": "Kylar"
+              },
+              {
+                "meta": "Poland",
+                "title": "KEi"
+              },
+              {
+                "meta": "Denmark",
+                "title": "TMB"
+              },
+              {
+                "meta": "Denmark",
+                "title": "nicoodoz"
+              },
+              {
+                "meta": "Poland",
+                "title": "Kunai"
+              }
+            ],
+            "title": "Phantom lineup"
+          },
+          {
+            "empty": "No lineup yet",
+            "name": "lavked",
+            "rows": [
+              {
+                "meta": "Russia",
+                "title": "xm1nd"
+              },
+              {
+                "meta": "Russia",
+                "title": "azukay"
+              },
+              {
+                "meta": "Russia",
+                "title": "k4nfuz"
+              },
+              {
+                "meta": "Russia",
+                "title": "takanashi"
+              },
+              {
+                "meta": "Russia",
+                "title": "FREXEMP"
+              }
+            ],
+            "title": "lavked lineup"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "number": "01",
+              "placeholder": "Map 1",
+              "result": null,
+              "state": "live",
+              "title": "Mirage",
+              "value": null
+            },
+            {
+              "number": "02",
+              "placeholder": "Map 2",
+              "result": null,
+              "state": "live",
+              "title": "Nuke",
+              "value": null
+            },
+            {
+              "number": "03",
+              "placeholder": "Map 3",
+              "result": null,
+              "state": "live",
+              "title": "Ancient",
+              "value": null
+            }
+          ],
+          "slots": 3,
+          "title": "Maps"
+        }
+      },
+      "id": "CZFqNbSAN2_R01-M004"
+    },
+    {
+      "card": {
+        "caption": "PGL Masters Bucharest 2026",
+        "footer": "BO3 · Playoffs · Tier 1",
+        "live": false,
+        "sides": [
+          {
+            "name": "MOUZ",
+            "short": "MOUZ"
+          },
+          {
+            "name": "Team Vitality",
+            "short": "Vitality"
+          }
+        ],
+        "status": {
+          "start": "2026-10-31T08:00:00Z"
+        }
+      },
+      "dialog": {
+        "footer": {
+          "credit": "Data: Liquipedia (CC BY-SA 3.0)",
+          "note": "Updated every 5 minutes."
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO3"
+            },
+            {
+              "text": "Tier 1",
+              "tone": "gold"
+            }
+          ],
+          "subtitle": "Counter-Strike 2 · Playoffs",
+          "title": "PGL Masters Bucharest 2026"
+        },
+        "hero": {
+          "lines": [
+            {
+              "start": "2026-10-31T08:00:00Z"
+            }
+          ],
+          "live": false,
+          "sides": [
+            {
+              "name": "MOUZ",
+              "short": "MOUZ"
+            },
+            {
+              "name": "Team Vitality",
+              "short": "Vitality"
+            }
+          ]
+        },
+        "lists": [
+          {
+            "empty": "No lineup yet",
+            "name": "MOUZ",
+            "rows": [
+              {
+                "meta": "Hungary",
+                "title": "torzsi"
+              },
+              {
+                "meta": "Israel",
+                "title": "xertioN"
+              },
+              {
+                "meta": "Israel",
+                "title": "Spinx"
+              },
+              {
+                "meta": "Hungary",
+                "title": "xelex"
+              },
+              {
+                "meta": "Czechia",
+                "title": "PR"
+              }
+            ],
+            "title": "MOUZ lineup"
+          },
+          {
+            "empty": "No lineup yet",
+            "name": "Vitality",
+            "rows": [
+              {
+                "meta": "France",
+                "title": "ZywOo"
+              },
+              {
+                "meta": "Israel",
+                "title": "flameZ"
+              },
+              {
+                "meta": "United Kingdom",
+                "title": "mezii"
+              },
+              {
+                "meta": "Estonia",
+                "title": "ropz"
+              },
+              {
+                "meta": "Lithuania",
+                "title": "jL"
+              }
+            ],
+            "title": "Vitality lineup"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "number": "01",
+              "placeholder": "Map 1",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "number": "02",
+              "placeholder": "Map 2",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "number": "03",
+              "placeholder": "Map 3",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            }
+          ],
+          "slots": 3,
+          "title": "Maps"
+        }
+      },
+      "id": "VoCvX8lnm9_RxMTP"
+    },
+    {
+      "card": {
+        "caption": "PGL Masters Bucharest 2026",
+        "footer": "BO5 · Playoffs · Tier 1",
+        "live": false,
+        "sides": [
+          {
+            "name": "FURIA",
+            "short": "FURIA"
+          },
+          {
+            "name": "Nemiga Gaming",
+            "short": "Nemiga"
+          }
+        ],
+        "status": {
+          "start": "2026-10-31T11:00:00Z"
+        }
+      },
+      "dialog": {
+        "footer": {
+          "credit": "Data: Liquipedia (CC BY-SA 3.0)",
+          "note": "Updated every 5 minutes."
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO5"
+            },
+            {
+              "text": "Tier 1",
+              "tone": "gold"
+            }
+          ],
+          "subtitle": "Counter-Strike 2 · Playoffs",
+          "title": "PGL Masters Bucharest 2026"
+        },
+        "hero": {
+          "lines": [
+            {
+              "start": "2026-10-31T11:00:00Z"
+            }
+          ],
+          "live": false,
+          "sides": [
+            {
+              "name": "FURIA",
+              "short": "FURIA"
+            },
+            {
+              "name": "Nemiga Gaming",
+              "short": "Nemiga"
+            }
+          ]
+        },
+        "lists": [
+          {
+            "empty": "No lineup yet",
+            "name": "FURIA",
+            "rows": [
+              {
+                "meta": "Brazil",
+                "title": "yuurih"
+              },
+              {
+                "meta": "Brazil",
+                "title": "KSCERATO"
+              },
+              {
+                "meta": "Brazil",
+                "title": "FalleN"
+              },
+              {
+                "meta": "Kazakhstan",
+                "title": "molodoy"
+              },
+              {
+                "meta": "Latvia",
+                "title": "YEKINDAR"
+              }
+            ],
+            "title": "FURIA lineup"
+          },
+          {
+            "empty": "No lineup yet",
+            "name": "Nemiga",
+            "rows": [
+              {
+                "meta": "Kazakhstan",
+                "title": "khaN"
+              },
+              {
+                "meta": "Kazakhstan",
+                "title": "SYPH0"
+              },
+              {
+                "meta": "Russia",
+                "title": "KaiR0N-"
+              },
+              {
+                "meta": "Russia",
+                "title": "robo"
+              },
+              {
+                "meta": "Russia",
+                "title": "Xant3r"
+              }
+            ],
+            "title": "Nemiga lineup"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "number": "01",
+              "placeholder": "Map 1",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "number": "02",
+              "placeholder": "Map 2",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "number": "03",
+              "placeholder": "Map 3",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "number": "04",
+              "placeholder": "Map 4",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "number": "05",
+              "placeholder": "Map 5",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            }
+          ],
+          "slots": 5,
+          "title": "Maps"
+        }
+      },
+      "id": "VoCvX8lnm9_R03-M001"
+    },
+    {
+      "card": {
+        "caption": "NSTLGA Texas Open 2026",
+        "footer": "BO3 · Group A · Tier 4",
+        "live": false,
+        "sides": [
+          null,
+          null
+        ],
+        "status": {
+          "start": "2026-10-31T00:00:00Z"
+        }
+      },
+      "dialog": {
+        "footer": {
+          "credit": "Data: Liquipedia (CC BY-SA 3.0)",
+          "note": "Updated every 5 minutes."
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO3"
+            },
+            {
+              "text": "Tier 4"
+            }
+          ],
+          "subtitle": "Counter-Strike 2 · Group A",
+          "title": "NSTLGA Texas Open 2026"
+        },
+        "hero": {
+          "lines": [
+            {
+              "start": "2026-10-31T00:00:00Z"
+            }
+          ],
+          "live": false,
+          "sides": [
+            null,
+            null
+          ]
+        },
+        "lists": [
+          {
+            "empty": "No lineup yet",
+            "name": null,
+            "rows": [],
+            "title": "TBD lineup"
+          },
+          {
+            "empty": "No lineup yet",
+            "name": null,
+            "rows": [],
+            "title": "TBD lineup"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "number": "01",
+              "placeholder": "Map 1",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "number": "02",
+              "placeholder": "Map 2",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            },
+            {
+              "number": "03",
+              "placeholder": "Map 3",
+              "result": null,
+              "state": "next",
+              "title": null,
+              "value": null
+            }
+          ],
+          "slots": 3,
+          "title": "Maps"
+        }
+      },
+      "id": "T2fhEqCSw3_0003"
+    },
+    {
+      "card": {
+        "caption": "FiReSPORTS Last Chance '26",
+        "footer": "BO3 · Group D · Tier 3",
+        "live": false,
+        "sides": [
+          {
+            "lead": true,
+            "name": "BESTIA",
+            "score": "2",
+            "short": "BESTIA"
+          },
+          {
+            "lead": false,
+            "name": "BTH E-Sports",
+            "score": "0",
+            "short": "BTH"
+          }
+        ],
+        "status": "Final"
+      },
+      "dialog": {
+        "footer": {
+          "credit": "Data: Liquipedia (CC BY-SA 3.0)",
+          "note": "Updated every 5 minutes."
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO3"
+            },
+            {
+              "text": "Tier 3"
+            }
+          ],
+          "subtitle": "Counter-Strike 2 · Group D",
+          "title": "FiReSPORTS Last Chance '26"
+        },
+        "hero": {
+          "lines": [
+            "Final",
+            {
+              "start": "2026-10-30T19:10:00Z"
+            }
+          ],
+          "live": false,
+          "sides": [
+            {
+              "lead": true,
+              "name": "BESTIA",
+              "score": "2",
+              "short": "BESTIA"
+            },
+            {
+              "lead": false,
+              "name": "BTH E-Sports",
+              "score": "0",
+              "short": "BTH"
+            }
+          ]
+        },
+        "lists": [
+          {
+            "empty": "No lineup yet",
+            "name": "BESTIA",
+            "rows": [
+              {
+                "meta": "Brazil",
+                "title": "cass1n"
+              },
+              {
+                "meta": "Uruguay",
+                "title": "timo"
+              },
+              {
+                "meta": "Argentina",
+                "title": "buda"
+              },
+              {
+                "meta": "Brazil",
+                "title": "drop"
+              },
+              {
+                "meta": "Brazil",
+                "title": "kauez"
+              }
+            ],
+            "title": "BESTIA lineup"
+          },
+          {
+            "empty": "No lineup yet",
+            "name": "BTH",
+            "rows": [
+              {
+                "meta": "Uruguay",
+                "title": "aDrS"
+              },
+              {
+                "meta": "Argentina",
+                "title": "sai794"
+              },
+              {
+                "meta": "Uruguay",
+                "title": "andrew"
+              },
+              {
+                "meta": "Argentina",
+                "title": "daker"
+              },
+              {
+                "meta": "Argentina",
+                "title": "Perpetuo"
+              }
+            ],
+            "title": "BTH lineup"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "number": "01",
+              "placeholder": "Map 1",
+              "result": {
+                "name": "BESTIA",
+                "text": "BESTIA"
+              },
+              "state": "done",
+              "title": "Mirage",
+              "value": "13:3"
+            },
+            {
+              "number": "02",
+              "placeholder": "Map 2",
+              "result": {
+                "name": "BESTIA",
+                "text": "BESTIA"
+              },
+              "state": "done",
+              "title": "Dust II",
+              "value": "13:9"
+            },
+            {
+              "number": "03",
+              "placeholder": "Map 3",
+              "result": null,
+              "state": "next",
+              "title": "Ancient",
+              "value": null
+            }
+          ],
+          "slots": 3,
+          "title": "Maps"
+        }
+      },
+      "id": "q3PDQdxYQi_0002"
+    },
+    {
+      "card": {
+        "caption": "Gamers Club Masters VII",
+        "footer": "BO3 · Group B · Tier 3",
+        "live": false,
+        "sides": [
+          {
+            "lead": true,
+            "name": "Imperial Esports",
+            "score": "2",
+            "short": "Imperial"
+          },
+          {
+            "lead": false,
+            "name": "paiN Gaming",
+            "score": "0",
+            "short": "paiN"
+          }
+        ],
+        "status": "Final"
+      },
+      "dialog": {
+        "footer": {
+          "credit": "Data: Liquipedia (CC BY-SA 3.0)",
+          "note": "Updated every 5 minutes."
+        },
+        "header": {
+          "chips": [
+            {
+              "text": "BO3"
+            },
+            {
+              "text": "Tier 3"
+            }
+          ],
+          "subtitle": "Counter-Strike 2 · Group B",
+          "title": "Gamers Club Masters VII"
+        },
+        "hero": {
+          "lines": [
+            "Final",
+            {
+              "start": "2026-10-30T19:00:00Z"
+            }
+          ],
+          "live": false,
+          "sides": [
+            {
+              "lead": true,
+              "name": "Imperial Esports",
+              "score": "2",
+              "short": "Imperial"
+            },
+            {
+              "lead": false,
+              "name": "paiN Gaming",
+              "score": "0",
+              "short": "paiN"
+            }
+          ]
+        },
+        "lists": [
+          {
+            "empty": "No lineup yet",
+            "name": "Imperial",
+            "rows": [
+              {
+                "meta": "Brazil",
+                "title": "VINI"
+              },
+              {
+                "meta": "Brazil",
+                "title": "noway"
+              },
+              {
+                "meta": "Brazil",
+                "title": "chelo"
+              },
+              {
+                "meta": "Brazil",
+                "title": "decenty"
+              },
+              {
+                "meta": "Brazil",
+                "title": "saadzin"
+              }
+            ],
+            "title": "Imperial lineup"
+          },
+          {
+            "empty": "No lineup yet",
+            "name": "paiN",
+            "rows": [
+              {
+                "meta": "Brazil",
+                "title": "biguzera"
+              },
+              {
+                "meta": "Brazil",
+                "title": "snow"
+              },
+              {
+                "meta": "Brazil",
+                "title": "saffee"
+              },
+              {
+                "meta": "Brazil",
+                "title": "Rkzinho"
+              },
+              {
+                "meta": "Brazil",
+                "title": "Tatu"
+              }
+            ],
+            "title": "paiN lineup"
+          }
+        ],
+        "tiles": {
+          "items": [
+            {
+              "number": "01",
+              "placeholder": "Map 1",
+              "result": {
+                "name": "Imperial",
+                "text": "Imperial"
+              },
+              "state": "done",
+              "title": "Nuke",
+              "value": "13:6"
+            },
+            {
+              "number": "02",
+              "placeholder": "Map 2",
+              "result": {
+                "name": "Imperial",
+                "text": "Imperial"
+              },
+              "state": "done",
+              "title": "Cache",
+              "value": "13:4"
+            },
+            {
+              "number": "03",
+              "placeholder": "Map 3",
+              "result": null,
+              "state": "next",
+              "title": "Ancient",
+              "value": null
+            }
+          ],
+          "slots": 3,
+          "title": "Maps"
+        }
+      },
+      "id": "8sc0gahSK6_0004"
+    }
+  ],
+  "updated": 1793395304
+}
