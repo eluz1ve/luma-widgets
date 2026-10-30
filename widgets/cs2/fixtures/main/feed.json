@@ -1,0 +1,540 @@
+{
+ "game": "cs2",
+ "source": "Liquipedia",
+ "license": "CC-BY-SA 3.0",
+ "updated": 1793395304,
+ "matches": [
+  {
+   "id": "OQGg5XrExD_R04-M003",
+   "begin_at": "2026-10-30T16:30:00Z",
+   "exact": true,
+   "state": "live",
+   "best_of": 3,
+   "tournament": "CCT EU 2026 Contenders #10",
+   "stage": "Results",
+   "tier": 4,
+   "teams": [
+    {
+     "name": "Ducks",
+     "short": "Ducks"
+    },
+    {
+     "name": "Aurora Young Blud",
+     "short": "Aurora YB"
+    }
+   ],
+   "lineups": [
+    [
+     {
+      "name": "7ckingsam",
+      "flag": "Russia"
+     },
+     {
+      "name": "ronkye",
+      "flag": "Russia"
+     },
+     {
+      "name": "zeokeN",
+      "flag": "Russia"
+     },
+     {
+      "name": "SALO_MUX",
+      "flag": "Russia"
+     },
+     {
+      "name": "eLa1z",
+      "flag": "Russia"
+     }
+    ],
+    [
+     {
+      "name": "meetyoxanaji",
+      "flag": "Russia"
+     },
+     {
+      "name": "Re1GN",
+      "flag": "Russia"
+     },
+     {
+      "name": "fluffy",
+      "flag": "Russia"
+     },
+     {
+      "name": "ms2180",
+      "flag": "Russia"
+     },
+     {
+      "name": "Sa1nTy",
+      "flag": "Russia"
+     }
+    ]
+   ],
+   "score": [
+    1,
+    1
+   ],
+   "winner": null,
+   "maps": [
+    {
+     "map": "Mirage",
+     "score": [
+      13,
+      3
+     ],
+     "winner": 0
+    },
+    {
+     "map": "Ancient",
+     "score": [
+      11,
+      13
+     ],
+     "winner": 1
+    },
+    {
+     "map": "Dust II",
+     "score": [
+      15,
+      15
+     ],
+     "winner": null
+    }
+   ]
+  },
+  {
+   "id": "CZFqNbSAN2_R01-M004",
+   "begin_at": "2026-10-30T18:00:00Z",
+   "exact": true,
+   "state": "live",
+   "best_of": 3,
+   "tournament": "CCT EU 2026 Series #12",
+   "stage": "Playoffs",
+   "tier": 3,
+   "teams": [
+    {
+     "name": "Phantom Esports",
+     "short": "Phantom"
+    },
+    {
+     "name": "lavked",
+     "short": "lavked"
+    }
+   ],
+   "lineups": [
+    [
+     {
+      "name": "Kylar",
+      "flag": "Poland"
+     },
+     {
+      "name": "KEi",
+      "flag": "Poland"
+     },
+     {
+      "name": "TMB",
+      "flag": "Denmark"
+     },
+     {
+      "name": "nicoodoz",
+      "flag": "Denmark"
+     },
+     {
+      "name": "Kunai",
+      "flag": "Poland"
+     }
+    ],
+    [
+     {
+      "name": "xm1nd",
+      "flag": "Russia"
+     },
+     {
+      "name": "azukay",
+      "flag": "Russia"
+     },
+     {
+      "name": "k4nfuz",
+      "flag": "Russia"
+     },
+     {
+      "name": "takanashi",
+      "flag": "Russia"
+     },
+     {
+      "name": "FREXEMP",
+      "flag": "Russia"
+     }
+    ]
+   ],
+   "score": [
+    0,
+    0
+   ],
+   "winner": null,
+   "maps": [
+    {
+     "map": "Mirage",
+     "score": null,
+     "winner": null
+    },
+    {
+     "map": "Nuke",
+     "score": null,
+     "winner": null
+    },
+    {
+     "map": "Ancient",
+     "score": null,
+     "winner": null
+    }
+   ]
+  },
+  {
+   "id": "VoCvX8lnm9_RxMTP",
+   "begin_at": "2026-10-31T08:00:00Z",
+   "exact": true,
+   "state": "upcoming",
+   "best_of": 3,
+   "tournament": "PGL Masters Bucharest 2026",
+   "stage": "Playoffs",
+   "tier": 1,
+   "teams": [
+    {
+     "name": "MOUZ",
+     "short": "MOUZ"
+    },
+    {
+     "name": "Team Vitality",
+     "short": "Vitality"
+    }
+   ],
+   "lineups": [
+    [
+     {
+      "name": "torzsi",
+      "flag": "Hungary"
+     },
+     {
+      "name": "xertioN",
+      "flag": "Israel"
+     },
+     {
+      "name": "Spinx",
+      "flag": "Israel"
+     },
+     {
+      "name": "xelex",
+      "flag": "Hungary"
+     },
+     {
+      "name": "PR",
+      "flag": "Czechia"
+     }
+    ],
+    [
+     {
+      "name": "ZywOo",
+      "flag": "France"
+     },
+     {
+      "name": "flameZ",
+      "flag": "Israel"
+     },
+     {
+      "name": "mezii",
+      "flag": "United Kingdom"
+     },
+     {
+      "name": "ropz",
+      "flag": "Estonia"
+     },
+     {
+      "name": "jL",
+      "flag": "Lithuania"
+     }
+    ]
+   ],
+   "score": null,
+   "winner": null,
+   "maps": []
+  },
+  {
+   "id": "VoCvX8lnm9_R03-M001",
+   "begin_at": "2026-10-31T11:00:00Z",
+   "exact": true,
+   "state": "upcoming",
+   "best_of": 5,
+   "tournament": "PGL Masters Bucharest 2026",
+   "stage": "Playoffs",
+   "tier": 1,
+   "teams": [
+    {
+     "name": "FURIA",
+     "short": "FURIA"
+    },
+    {
+     "name": "Nemiga Gaming",
+     "short": "Nemiga"
+    }
+   ],
+   "lineups": [
+    [
+     {
+      "name": "yuurih",
+      "flag": "Brazil"
+     },
+     {
+      "name": "KSCERATO",
+      "flag": "Brazil"
+     },
+     {
+      "name": "FalleN",
+      "flag": "Brazil"
+     },
+     {
+      "name": "molodoy",
+      "flag": "Kazakhstan"
+     },
+     {
+      "name": "YEKINDAR",
+      "flag": "Latvia"
+     }
+    ],
+    [
+     {
+      "name": "khaN",
+      "flag": "Kazakhstan"
+     },
+     {
+      "name": "SYPH0",
+      "flag": "Kazakhstan"
+     },
+     {
+      "name": "KaiR0N-",
+      "flag": "Russia"
+     },
+     {
+      "name": "robo",
+      "flag": "Russia"
+     },
+     {
+      "name": "Xant3r",
+      "flag": "Russia"
+     }
+    ]
+   ],
+   "score": null,
+   "winner": null,
+   "maps": []
+  },
+  {
+   "id": "T2fhEqCSw3_0003",
+   "begin_at": "2026-10-31T00:00:00Z",
+   "exact": true,
+   "state": "upcoming",
+   "best_of": 3,
+   "tournament": "NSTLGA Texas Open 2026",
+   "stage": "Group A",
+   "tier": 4,
+   "teams": [
+    null,
+    null
+   ],
+   "lineups": [
+    [],
+    []
+   ],
+   "score": null,
+   "winner": null,
+   "maps": []
+  },
+  {
+   "id": "q3PDQdxYQi_0002",
+   "begin_at": "2026-10-30T19:10:00Z",
+   "exact": true,
+   "state": "finished",
+   "best_of": 3,
+   "tournament": "FiReSPORTS Last Chance '26",
+   "stage": "Group D",
+   "tier": 3,
+   "teams": [
+    {
+     "name": "BESTIA",
+     "short": "BESTIA"
+    },
+    {
+     "name": "BTH E-Sports",
+     "short": "BTH"
+    }
+   ],
+   "lineups": [
+    [
+     {
+      "name": "cass1n",
+      "flag": "Brazil"
+     },
+     {
+      "name": "timo",
+      "flag": "Uruguay"
+     },
+     {
+      "name": "buda",
+      "flag": "Argentina"
+     },
+     {
+      "name": "drop",
+      "flag": "Brazil"
+     },
+     {
+      "name": "kauez",
+      "flag": "Brazil"
+     }
+    ],
+    [
+     {
+      "name": "aDrS",
+      "flag": "Uruguay"
+     },
+     {
+      "name": "sai794",
+      "flag": "Argentina"
+     },
+     {
+      "name": "andrew",
+      "flag": "Uruguay"
+     },
+     {
+      "name": "daker",
+      "flag": "Argentina"
+     },
+     {
+      "name": "Perpetuo",
+      "flag": "Argentina"
+     }
+    ]
+   ],
+   "score": [
+    2,
+    0
+   ],
+   "winner": 0,
+   "maps": [
+    {
+     "map": "Mirage",
+     "score": [
+      13,
+      3
+     ],
+     "winner": 0
+    },
+    {
+     "map": "Dust II",
+     "score": [
+      13,
+      9
+     ],
+     "winner": 0
+    },
+    {
+     "map": "Ancient",
+     "score": null,
+     "winner": null
+    }
+   ]
+  },
+  {
+   "id": "8sc0gahSK6_0004",
+   "begin_at": "2026-10-30T19:00:00Z",
+   "exact": true,
+   "state": "finished",
+   "best_of": 3,
+   "tournament": "Gamers Club Masters VII",
+   "stage": "Group B",
+   "tier": 3,
+   "teams": [
+    {
+     "name": "Imperial Esports",
+     "short": "Imperial"
+    },
+    {
+     "name": "paiN Gaming",
+     "short": "paiN"
+    }
+   ],
+   "lineups": [
+    [
+     {
+      "name": "VINI",
+      "flag": "Brazil"
+     },
+     {
+      "name": "noway",
+      "flag": "Brazil"
+     },
+     {
+      "name": "chelo",
+      "flag": "Brazil"
+     },
+     {
+      "name": "decenty",
+      "flag": "Brazil"
+     },
+     {
+      "name": "saadzin",
+      "flag": "Brazil"
+     }
+    ],
+    [
+     {
+      "name": "biguzera",
+      "flag": "Brazil"
+     },
+     {
+      "name": "snow",
+      "flag": "Brazil"
+     },
+     {
+      "name": "saffee",
+      "flag": "Brazil"
+     },
+     {
+      "name": "Rkzinho",
+      "flag": "Brazil"
+     },
+     {
+      "name": "Tatu",
+      "flag": "Brazil"
+     }
+    ]
+   ],
+   "score": [
+    2,
+    0
+   ],
+   "winner": 0,
+   "maps": [
+    {
+     "map": "Nuke",
+     "score": [
+      13,
+      6
+     ],
+     "winner": 0
+    },
+    {
+     "map": "Cache",
+     "score": [
+      13,
+      4
+     ],
+     "winner": 0
+    },
+    {
+     "map": "Ancient",
+     "score": null,
+     "winner": null
+    }
+   ]
+  }
+ ]
+}

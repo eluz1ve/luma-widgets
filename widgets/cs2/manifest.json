@@ -1,0 +1,181 @@
+{
+  "schema": 1,
+  "id": "cs2",
+  "version": "1.0.0",
+  "luma": "2.8.4",
+  "name": {
+    "en": "Counter-Strike 2"
+  },
+  "description": {
+    "en": "Live, upcoming and finished Counter-Strike 2 matches with maps and scores, from Liquipedia.",
+    "de": "Laufende, kommende und beendete Counter-Strike-2-Spiele mit Maps und Ergebnissen, von Liquipedia.",
+    "zh": "来自 Liquipedia 的《反恐精英 2》进行中、即将开始和已结束的比赛，含地图与比分。",
+    "es": "Partidas de Counter-Strike 2 en directo, próximas y terminadas, con mapas y marcadores, de Liquipedia.",
+    "pt": "Partidas de Counter-Strike 2 ao vivo, próximas e encerradas, com mapas e placares, da Liquipedia.",
+    "it": "Partite di Counter-Strike 2 in diretta, in arrivo e concluse, con mappe e punteggi, da Liquipedia.",
+    "ru": "Матчи Counter-Strike 2 в эфире, предстоящие и завершённые, с картами и счётом, по данным Liquipedia."
+  },
+  "authors": [
+    "eluz1ve"
+  ],
+  "icon": "gaming",
+  "origins": [
+    "https://eluz1ve.github.io"
+  ],
+  "size": {
+    "default": [
+      6,
+      2
+    ],
+    "min": [
+      6,
+      2
+    ],
+    "max": [
+      12,
+      3
+    ]
+  },
+  "card": "scoreboard",
+  "instances": 1,
+  "strings": {
+    "map": {
+      "en": "Map {number}",
+      "de": "Map {number}",
+      "zh": "第 {number} 张地图",
+      "es": "Mapa {number}",
+      "pt": "Mapa {number}",
+      "it": "Mappa {number}",
+      "ru": "Карта {number}"
+    },
+    "maps": {
+      "en": "Maps",
+      "de": "Maps",
+      "zh": "地图",
+      "es": "Mapas",
+      "pt": "Mapas",
+      "it": "Mappe",
+      "ru": "Карты"
+    },
+    "final": {
+      "en": "Final",
+      "de": "Beendet",
+      "zh": "已结束",
+      "es": "Final",
+      "pt": "Encerrada",
+      "it": "Finale",
+      "ru": "Завершён"
+    },
+    "tier": {
+      "en": "Tier {number}",
+      "de": "Tier {number}",
+      "zh": "{number} 级赛事",
+      "es": "Tier {number}",
+      "pt": "Tier {number}",
+      "it": "Tier {number}",
+      "ru": "Тир {number}"
+    },
+    "credit": {
+      "en": "Data: Liquipedia (CC BY-SA 3.0)",
+      "de": "Daten: Liquipedia (CC BY-SA 3.0)",
+      "zh": "数据：Liquipedia（CC BY-SA 3.0）",
+      "es": "Datos: Liquipedia (CC BY-SA 3.0)",
+      "pt": "Dados: Liquipedia (CC BY-SA 3.0)",
+      "it": "Dati: Liquipedia (CC BY-SA 3.0)",
+      "ru": "Данные: Liquipedia (CC BY-SA 3.0)"
+    },
+    "note": {
+      "en": "Updated every 15 minutes.",
+      "de": "Alle 15 Minuten aktualisiert.",
+      "zh": "每 15 分钟更新一次。",
+      "es": "Se actualiza cada 15 minutos.",
+      "pt": "Atualizado a cada 15 minutos.",
+      "it": "Aggiornato ogni 15 minuti.",
+      "ru": "Обновляется каждые 15 минут."
+    },
+    "none": {
+      "en": "No matches right now",
+      "de": "Gerade keine Spiele",
+      "zh": "暂无比赛",
+      "es": "No hay partidas ahora",
+      "pt": "Nenhuma partida agora",
+      "it": "Nessuna partita ora",
+      "ru": "Сейчас матчей нет"
+    },
+    "noMajor": {
+      "en": "No Tier 1–2 matches this week",
+      "de": "Diese Woche keine Tier-1–2-Spiele",
+      "zh": "本周没有 1–2 级赛事的比赛",
+      "es": "Sin partidas Tier 1–2 esta semana",
+      "pt": "Sem partidas Tier 1–2 nesta semana",
+      "it": "Nessuna partita Tier 1–2 questa settimana",
+      "ru": "На этой неделе нет матчей тира 1–2"
+    },
+    "lineup": {
+      "en": "{team} lineup",
+      "de": "Aufstellung {team}",
+      "zh": "{team} 阵容",
+      "es": "Alineación de {team}",
+      "pt": "Escalação da {team}",
+      "it": "Formazione {team}",
+      "ru": "Состав {team}"
+    },
+    "noLineup": {
+      "en": "No lineup yet",
+      "de": "Noch keine Aufstellung",
+      "zh": "暂无阵容",
+      "es": "Aún sin alineación",
+      "pt": "Ainda sem escalação",
+      "it": "Formazione non ancora nota",
+      "ru": "Состав пока неизвестен"
+    }
+  },
+  "settings": [
+    {
+      "id": "major_only",
+      "type": "toggle",
+      "label": {
+        "en": "Tier 1–2 events only",
+        "de": "Nur Tier-1–2-Turniere",
+        "zh": "仅 1–2 级赛事",
+        "es": "Solo torneos Tier 1–2",
+        "pt": "Só torneios Tier 1–2",
+        "it": "Solo tornei Tier 1–2",
+        "ru": "Только турниры тира 1–2"
+      },
+      "default": true
+    },
+    {
+      "id": "results",
+      "type": "toggle",
+      "label": {
+        "en": "Recent results",
+        "de": "Letzte Ergebnisse",
+        "zh": "最近结果",
+        "es": "Resultados recientes",
+        "pt": "Resultados recentes",
+        "it": "Risultati recenti",
+        "ru": "Недавние результаты"
+      },
+      "default": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "main",
+      "refresh": {
+        "every": 300,
+        "min": 300
+      },
+      "requests": [
+        {
+          "id": "feed",
+          "url": "https://eluz1ve.github.io/luma-feeds/cs2/matches.json"
+        }
+      ],
+      "transform": {
+        "file": "main.jq"
+      }
+    }
+  ]
+}
